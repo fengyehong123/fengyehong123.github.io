@@ -3,6 +3,10 @@
 
 千万用新内核的浏览器来使用Github,否则很多按钮用不了啊.o(╥﹏╥)o
 
+> 以下全部网站均为本人日常收集,不涉及任何推广.列出只为分享,仅此而已
+>
+> 请勿做违法的事情,谢谢
+
 # 二次元
 
 | 种子下载                                            | 在线观看                              |
@@ -15,25 +19,25 @@
 | [ACG搜](http://www.acgsou.com/1.html)               | [速速动漫](http://www.susudm.com/)    |
 | [动漫花园1](https://dongmanhuayuan.myheartsite.com) | [风车动漫](http://www.fengchedm.com/) |
 | [动漫花园2](https://www.dongmanhuayuan.com/)        | [非极速](http://feijisu8.com/acg/)    |
-| [动漫花园3](https://share.dmhy.org/)  需要翻墙      |                                       |
+| [动漫花园3](https://share.dmhy.org/)  需要翻墙      | [万能命令](https://wanneng.run/cn/)   |
 | [蜜桔计划](https://mikanani.me/)                    |                                       |
 
-# 软件
+# 软件站
 
 > 由于是个人站长进行维护,所以可能有些网站会失效.
 >
 > 补上一句:苏州思杰马克丁,Fuc...
 
-| [大眼仔旭](http://www.dayanzai.me/)        | [懒得勤快](https://masuit.com/)           | [夜雨聆风](http://www.yeyulingfeng.com/) | [便携软件](https://portableappk.com/)      |
-| ------------------------------------------ | ----------------------------------------- | ---------------------------------------- | ------------------------------------------ |
-| [胡萝卜周](http://www.carrotchou.blog/)    | [NoCmd](https://www.nocmd.com/)           | [QiuQuan](http://www.qiuquan.cc/)        | [th_sjy](http://www.th-sjy.com/)           |
-| [ZD423](http://www.zdfans.com/)            | [黑域基地](http://www.hackhw.com/)        | [Cencrack](http://cencrack.com/)         | [豌豆荚](https://www.wandoujia.com/)       |
-| [日本软件](https://win10app.vector.co.jp/) | [正版中国](https://getitfree.cn/)         | [小众软件](https://www.appinn.com/)      | [宋永志博客](http://www.songyongzhi.com/)  |
-| [Windows激活](https://v0v.bid/)            | [小笨分享](https://zhouxiaoben.info/src/) | [慕若曦博客](https://www.muruoxi.com/)   | [MSDN,我告诉你](https://msdn.itellyou.cn/) |
-| [软件SOS](https://www.rjsos.com/)          | [系统迷](https://www.xitmi.com/)          | [小冷博客](https://www.chromeba.net/)    | [白的夜](https://www.baideye.com/)         |
-| [423down](https://www.423down.com/)        | [风刑软件](https://www.wsf1234.com/)      | [麦田一颗葱](https://www.52maicong.com/) |                                            |
+| [大眼仔旭](http://www.dayanzai.me/)        | [懒得勤快](https://masuit.com/)           | [夜雨聆风](http://www.yeyulingfeng.com/) | [便携软件](https://portableappk.com/)          |
+| ------------------------------------------ | ----------------------------------------- | ---------------------------------------- | ---------------------------------------------- |
+| [胡萝卜周](http://www.carrotchou.blog/)    | [NoCmd](https://www.nocmd.com/)           | [QiuQuan](http://www.qiuquan.cc/)        | [th_sjy](http://www.th-sjy.com/)               |
+| [ZD423](http://www.zdfans.com/)            | [黑域基地](http://www.hackhw.com/)        | [Cencrack](http://cencrack.com/)         | [豌豆荚](https://www.wandoujia.com/)           |
+| [日本软件](https://win10app.vector.co.jp/) | [正版中国](https://getitfree.cn/)         | [小众软件](https://www.appinn.com/)      | [宋永志博客](http://www.songyongzhi.com/)      |
+| [Windows激活](https://v0v.bid/)            | [小笨分享](https://zhouxiaoben.info/src/) | [慕若曦博客](https://www.muruoxi.com/)   | [MSDN,我告诉你](https://msdn.itellyou.cn/)     |
+| [软件SOS](https://www.rjsos.com/)          | [系统迷](https://www.xitmi.com/)          | [小冷博客](https://www.chromeba.net/)    | [白的夜](https://www.baideye.com/)             |
+| [423down](https://www.423down.com/)        | [风刑软件](https://www.wsf1234.com/)      | [麦田一颗葱](https://www.52maicong.com/) | [奔跑中的奶酪](https://www.runningcheese.com/) |
 
-# 翻墙
+# 翻墙站
 
 > 有很多网址不是访问不了,而是被和谐了.只有翻墙后才能访问,但是不访问这些网站却翻不出去,这是一个先有鸡还是先有蛋的问题.但总还是有些网址能在墙内访问的
 
@@ -84,14 +88,14 @@
 | [openwrt教程](https://github.com/softwaredownload/openwrt-fanqiang) | [openwrt教程](http://www.openwrt.org.cn/)                 | [openwrt固件](https://github.com/openwrt/openwrt/releases) | [koolshare固件](http://firmware.koolshare.cn/) |
 | [koolshare论坛](https://koolshare.cn/portal.php)             | [梅林安装Clash](https://github.com/KOP-XIAO/Clash-Merlin) |                                                            |                                                |
 
-# 电影
+# 电影站
 
 | [电影天堂](https://www.dytt8.net/index0.html) | [电影家园](http://www.idyjy.com/)       | [龙部落](http://www.lbldy.com/)                  | [BD影视](https://www.bd-film.cc/) |
 | --------------------------------------------- | --------------------------------------- | ------------------------------------------------ | --------------------------------- |
 | [920电影网](http://www.920dy.cc/)             | [古哥论坛](http://www.gugeys.cc/)       | [BT猫](https://www.btmao.cc/)                    | [BT之家](http://www.6btbtt.com/)  |
 | [非极速](http://feijisu8.com/acg/)            | [田鸡影院](http://www.tianjiyy123.com/) | [万能命令](https://wanneng.run/cn/)  强烈推荐!!! |                                   |
 
-# 音乐
+# 音乐站
 
 > 随着各大平台对版权的激烈争夺,听个歌都要下载好几个APP,开好几个会员了.这个真忍不了
 
@@ -111,7 +115,7 @@
 | [WallPaper](https://wall.alphacoders.com/)  推荐!!           | [wallhaven](https://wallhaven.cc/)           | [wallpaperscraft](https://wallpaperscraft.com/) |
 | ------------------------------------------------------------ | -------------------------------------------- | ----------------------------------------------- |
 | [wallhere](https://wallhere.com/)                            | [simpledesktops](http://simpledesktops.com/) | [彼岸图网](http://pic.netbian.com/)             |
-| [Wallpaper_Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)  需要付费,但很棒!!!强烈推荐 |                                              |                                                 |
+| [Wallpaper_Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)  需要付费,但很棒!!!强烈推荐,但占用大量资源 |                                              |                                                 |
 
 # 纪录片
 
@@ -120,11 +124,84 @@
 | B站的纪录片                         |                                     |      |
 
 # 日剧
-> 为啥没国产剧?恕我直言,国产剧只有少部分是精品,大部分都是垃圾!国漫都比国产剧强
 
-| [心动日剧](http://www.doki8.com/)                    | [追新番](http://www.zhuixinfan.com/main.php) | [人人影视](http://www.zmz2019.com/) |
-| ---------------------------------------------------- | -------------------------------------------- | ----------------------------------- |
-| [诸神字幕站](https://subs.kamigami.org/)  好像被墙了 |                                              |                                     |
+| [心动日剧](http://www.doki8.com/)        | [追新番](http://www.zhuixinfan.com/main.php) | [人人影视](http://www.zmz2019.com/) |
+| ---------------------------------------- | -------------------------------------------- | ----------------------------------- |
+| [诸神字幕站](https://subs.kamigami.org/) | [日尚大学园](http://www.jpsub.com/)          |                                     |
 
+# 资源站
 
+| [无作为](https://www.wuzuowei.net)                           | [阿虚](https://github.com/axutongxue/Article-backup/issues)  推荐! | [阿虚同学的储物间](http://kyon945.ys168.com/) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------- |
+| [吾爱破解](https://www.52pojie.cn/)                          | [凨辰隐资源网](http://www.fcyzyw.com/index.html)             | [ED资源共享](https://www.ed2000.com/)         |
+| [高清范](http://www.hdpfans.com/)                            | [流量族](http://liuliangzu.com/)  获取性价比高的手机卡       | [新极品](http://www.xinjipin.com/)  购买账号  |
+| [浏览器脚本](https://greasyfork.org/zh-CN) 配合油猴插件,拓展浏览器功能 | [拓展迷](https://www.extfans.com/)  谷歌内核浏览器插件       | [逗比脚本](https://github.com/ToyoDAdoubi)    |
+| [谷歌搜索镜像站](https://www.uedbox.com/post/54776/)         | [BT-btt](https://bt-btt.com)                                 | [网盘搜索](http://magnet.chongbuluo.com/)     |
+| [TopBook](https://topbook.cc/overview)  高效生活工作         | [编程随想](https://program-think.blogspot.com/)(需要翻墙)    |                                               |
+
+# 工具站
+
+| [ByPass分流抢票](https://www.bypass.cn/)  | [PDF在线转换](https://www.ilovepdf.com/zh-cn)          | [二维码生成](https://cli.im/)           |
+| ----------------------------------------- | ------------------------------------------------------ | --------------------------------------- |
+| [爱资料在线工具](https://www.toolnb.com/) | [兔二工具箱](https://www.tool2.cn/)                    | [在线工具](https://tool.lu/)            |
+| [免费网络应用](https://123apps.com/cn/)   | [一次性邮箱](https://temp-mail.org/zh/)                | [免费图床](https://www.jawy.cn/pic/)    |
+| [万能命令](https://wanneng.run/cn/)       | [云端应用](https://img.uzer.me/uzstatics/upgrade.html) | [大文件传输](https://www.wenshushu.cn/) |
+
+# 系统装机
+
+| [大白菜](http://www.bigbaicai.com/)  | [老毛桃](http://www.laomaotao.org/)           | [雨林木风](http://www.ylmfeng.com/index.html)                |
+| ------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
+| [爱纯净](http://www.aichunjing.com/) | [一键Ghost](http://doshome.com/yj/index.html) | [PE工具箱](http://www.tongyongpe.com/)                       |
+| [装机吧](http://www.zhuangjiba.com/) | [Windows之家](http://www.windowszj.com/)      | [凤凰系统](http://www.phoenixos.com/download_x86)  电脑安装安卓 |
+
+# 推荐软件和浏览器插件
+
+> 别安装360,随着犯罪成本的提升,个人电脑中病毒的几率降低老多了
+>
+> 1.以下软件大多数都是电脑软件,以下软件均无广告和弹窗(部分有弹窗的可以用破解版)
+>
+> 2.以下所有软件都可以在软件站列出的网站中进行下载,**推荐大眼仔旭和胡萝卜周**
+>
+> 3.部分软件列出了官网
+>
+> 4.以下软件都是在我电脑上安装的,不吹不黑
+>
+> 5.插件都是谷歌内核的浏览器插件,插件的下载地址已经列出,或者可以**百度一下Extfans**
+
+| 杀毒                                                         |                                                              |                                                            |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- |
+| 火绒安全(小巧干净无捆绑弹窗)                                 |                                                              |                                                            |
+| **浏览器**                                                   |                                                              |                                                            |
+| [百分浏览器](https://www.centbrowser.cn/)(基于谷歌内核,国产) | 谷歌浏览器                                                   | Via(安卓,小巧轻便,无推广)                                  |
+| **[浏览器插件](https://www.extfans.com/)**                   |                                                              |                                                            |
+| Infinity(美化浏览器标签页)                                   | Adblock Plus(屏蔽广告)                                       | 油猴(浏览器脚本插件)                                       |
+| **下载**                                                     |                                                              |                                                            |
+| uTorrent                                                     | IDM                                                          |                                                            |
+| **图像处理**                                                 |                                                              |                                                            |
+| [Snipaste](https://www.snipaste.com/)(截图神器)              | [faststone](https://www.faststone.org/)(小巧的录屏软件+长截图) | 2345看图王(破解版本)                                       |
+| [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases/tag/2.19.3) (小巧+录制Gif) |                                                              |                                                            |
+| **播放器**                                                   |                                                              |                                                            |
+| PotPlayer                                                    | [VLC](https://www.videolan.org/)                             |                                                            |
+| **系统增强**                                                 |                                                              |                                                            |
+| Listary(快速搜索电脑内文件)                                  | Clover(收纳文件夹标签)                                       | Wise Auto Shutdown(定时关机)                               |
+| IObit Uninstaller Pro(软件卸载)                              | [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)(内存流量监控) | Sublime(文本处理)                                          |
+| [TeamViewer](https://masuit.com/118/TeamViewer)(远程控制)    | [CCleaner](https://www.ccleaner.com/)(系统清理)              | [Dism++](http://www.chuyu.me/zh-Hans/index.html)(系统优化) |
+| 软媒美化大师                                                 | 盘姬工作箱                                                   |                                                            |
+| **其他**                                                     |                                                              |                                                            |
+| Mp3Tag(修改专辑信息)                                         | [PicGo](https://github.com/Molunerfinn/PicGo/releases)(上传图片到各大图床) | Xmind(流程图脑图)                                          |
+
+# 导航站
+
+| [钛导航](https://www.ve2x.com/)  这个必须牛逼!!! | [滚石导航](https://www.jawy.cn/)      | [沃客导航](https://www.9178.work/index.html) |
+| ------------------------------------------------ | ------------------------------------- | -------------------------------------------- |
+| [24K导航](https://www.24kdh.com/)                | [影迷导航](http://www.yingmi123.com/) | [小X导航](https://github.com/pgfldh/XXFLDH)  |
+| [eryaif导航](http://nav.eryajf.net/)             |                                       |                                              |
+
+# 程序员资源
+
+| [52Study](http://www.52studyit.com/)             | [吾爱IT](https://www.52itb.com/)             | [IT教程](https://www.itjc8.com/)              |
+| ------------------------------------------------ | -------------------------------------------- | --------------------------------------------- |
+| [52download](http://www.52download.cn/wpcourse/) | [Java1234](http://www.java1234.com/)         | [刘江博客](http://www.liujiangblog.com/blog/) |
+| [实验楼](https://www.shiyanlou.com/)             | [网易云课堂](https://study.163.com/)         | [慕课网](https://www.imooc.com/)              |
+| [黑马程序员视频库](http://yun.itheima.com/)      | [自强学堂](https://code.ziqiangxuetang.com/) | [我要自学网](https://www.51zxw.net/)          |
 
