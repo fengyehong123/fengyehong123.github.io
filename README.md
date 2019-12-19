@@ -86,10 +86,10 @@
 
 # 电影
 
-| [电影天堂](https://www.dytt8.net/index0.html) | [电影家园](http://www.idyjy.com/)       | [龙部落](http://www.lbldy.com/) | [BD影视](https://www.bd-film.cc/) |
-| --------------------------------------------- | --------------------------------------- | ------------------------------- | --------------------------------- |
-| [920电影网](http://www.920dy.cc/)             | [古哥论坛](http://www.gugeys.cc/)       | [BT猫](https://www.btmao.cc/)   | [BT之家](http://www.6btbtt.com/)  |
-| [非极速](http://feijisu8.com/acg/)            | [田鸡影院](http://www.tianjiyy123.com/) |                                 |                                   |
+| [电影天堂](https://www.dytt8.net/index0.html) | [电影家园](http://www.idyjy.com/)       | [龙部落](http://www.lbldy.com/)                  | [BD影视](https://www.bd-film.cc/) |
+| --------------------------------------------- | --------------------------------------- | ------------------------------------------------ | --------------------------------- |
+| [920电影网](http://www.920dy.cc/)             | [古哥论坛](http://www.gugeys.cc/)       | [BT猫](https://www.btmao.cc/)                    | [BT之家](http://www.6btbtt.com/)  |
+| [非极速](http://feijisu8.com/acg/)            | [田鸡影院](http://www.tianjiyy123.com/) | [万能命令](https://wanneng.run/cn/)  强烈推荐!!! |                                   |
 
 # 音乐
 
@@ -99,6 +99,31 @@
 | ------------------------------------------------ | ------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- |
 | [音乐解锁](https://github.com/ix64/unlock-music) | [FreeMp3](http://mctool.cn/music/)    | **[UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)** | [漫音社](http://www.acgjc.com/)                           |
 | [91Flac](https://www.91flac.com/)                |                                       |                                                              |                                                           |
+
+# 漫画
+
+| [漫画DB](https://www.manhuadb.com/)   | [土豪漫画](https://www.tohomh123.com/)    | [Kindle漫画](https://volmoe.com/)    强烈推荐!!! |
+| ------------------------------------- | :---------------------------------------- | :----------------------------------------------- |
+| [kindle漫画小站](http://kindlemh.cc/) | [Kindle漫画](http://www.kindlecomic.net/) | [漫画补档](https://www.manhuabudang.com/)        |
+
+# 壁纸
+
+| [WallPaper](https://wall.alphacoders.com/)  推荐!!           | [wallhaven](https://wallhaven.cc/)           | [wallpaperscraft](https://wallpaperscraft.com/) |
+| ------------------------------------------------------------ | -------------------------------------------- | ----------------------------------------------- |
+| [wallhere](https://wallhere.com/)                            | [simpledesktops](http://simpledesktops.com/) | [彼岸图网](http://pic.netbian.com/)             |
+| [Wallpaper_Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)  需要付费,但很棒!!!强烈推荐 |                                              |                                                 |
+
+# 纪录片
+
+| [纪录片之家](http://www.jlpdq.com/) | [纪录片大全](https://www.05jl.com/) |      |
+| ----------------------------------- | ----------------------------------- | ---- |
+| B站的纪录片                         |                                     |      |
+
+# 日剧
+
+| [心动日剧](http://www.doki8.com/)                    | [追新番](http://www.zhuixinfan.com/main.php) | [人人影视](http://www.zmz2019.com/) |
+| ---------------------------------------------------- | -------------------------------------------- | ----------------------------------- |
+| [诸神字幕站](https://subs.kamigami.org/)  好像被墙了 |                                              |                                     |
 
 
 
