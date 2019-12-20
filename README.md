@@ -7,6 +7,10 @@
 >
 > 请勿做违法的事情,谢谢
 
+> 一下全部网站均为本人日常收集,不涉及任何推广.列出只为分享,仅此而已
+>
+> 请勿做违法的事情,谢谢
+
 # 二次元
 
 | 种子下载                                            | 在线观看                              |
@@ -56,7 +60,7 @@
 | **工具**-`蓝灯`                                              |                                                              |                                                              |                                                              |
 | [官方GitHUb](https://github.com/getlantern)                  | [官网](https://getlantern.org/zh_CN/index.html)              |                                                              |                                                              |
 | **工具**-`其他`                                              |                                                              |                                                              |                                                              |
-| [Clash指南](https://docs.cfw.lbyczf.com/)                    | [Clash for Windows 使用简介](https://10101.io/2018/10/27/how-to-use-clash-for-windows) | **[clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)** | [Clash](https://github.com/Dreamacro/clash/releases/tag/v0.16.0) |
+| [Clash指南](https://docs.cfw.lbyczf.com/)                    | [Clash for Windows](https://10101.io/2018/10/27/how-to-use-clash-for-windows) | **[clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)** | [Clash](https://github.com/Dreamacro/clash/releases/tag/v0.16.0) |
 | [Brook](https://github.com/txthinking/brook/releases)        | [谷歌访问助手](https://github.com/haotian-wang/google-access-helper/releases) |                                                              |                                                              |
 
 > 资源获取
@@ -115,7 +119,7 @@
 | [WallPaper](https://wall.alphacoders.com/)  推荐!!           | [wallhaven](https://wallhaven.cc/)           | [wallpaperscraft](https://wallpaperscraft.com/) |
 | ------------------------------------------------------------ | -------------------------------------------- | ----------------------------------------------- |
 | [wallhere](https://wallhere.com/)                            | [simpledesktops](http://simpledesktops.com/) | [彼岸图网](http://pic.netbian.com/)             |
-| [Wallpaper_Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)  需要付费,但很棒!!!强烈推荐,但占用大量资源 |                                              |                                                 |
+| [Wallpaper_Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)  <br />需要付费,但很棒!!!强烈推荐,但占用大量资源 |                                              |                                                 |
 
 # 纪录片
 
@@ -131,13 +135,13 @@
 
 # 资源站
 
-| [无作为](https://www.wuzuowei.net)                           | [阿虚](https://github.com/axutongxue/Article-backup/issues)  推荐! | [阿虚同学的储物间](http://kyon945.ys168.com/) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------- |
-| [吾爱破解](https://www.52pojie.cn/)                          | [凨辰隐资源网](http://www.fcyzyw.com/index.html)             | [ED资源共享](https://www.ed2000.com/)         |
-| [高清范](http://www.hdpfans.com/)                            | [流量族](http://liuliangzu.com/)  获取性价比高的手机卡       | [新极品](http://www.xinjipin.com/)  购买账号  |
-| [浏览器脚本](https://greasyfork.org/zh-CN) 配合油猴插件,拓展浏览器功能 | [拓展迷](https://www.extfans.com/)  谷歌内核浏览器插件       | [逗比脚本](https://github.com/ToyoDAdoubi)    |
-| [谷歌搜索镜像站](https://www.uedbox.com/post/54776/)         | [BT-btt](https://bt-btt.com)                                 | [网盘搜索](http://magnet.chongbuluo.com/)     |
-| [TopBook](https://topbook.cc/overview)  高效生活工作         | [编程随想](https://program-think.blogspot.com/)(需要翻墙)    |                                               |
+| [无作为](https://www.wuzuowei.net)                           | [阿虚](https://github.com/axutongxue/Article-backup/issues)  推荐! | [阿虚同学的储物间](http://kyon945.ys168.com/)      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------- |
+| [吾爱破解](https://www.52pojie.cn/)                          | [凨辰隐资源网](http://www.fcyzyw.com/index.html)             | [ED资源共享](https://www.ed2000.com/)              |
+| [高清范](http://www.hdpfans.com/)                            | [流量族](http://liuliangzu.com/)  <br />获取性价比高的手机卡 | [新极品](http://www.xinjipin.com/)  <br />购买账号 |
+| [浏览器脚本](https://greasyfork.org/zh-CN) <br />配合油猴插件,拓展浏览器功能 | [拓展迷](https://www.extfans.com/)  <br />谷歌内核浏览器插件 | [逗比脚本](https://github.com/ToyoDAdoubi)         |
+| [谷歌搜索镜像站](https://www.uedbox.com/post/54776/)         | [BT-btt](https://bt-btt.com)                                 | [网盘搜索](http://magnet.chongbuluo.com/)          |
+| [TopBook](https://topbook.cc/overview)  高效生活工作         | [编程随想](https://program-think.blogspot.com/)(需要翻墙)    |                                                    |
 
 # 工具站
 
@@ -190,12 +194,24 @@
 | **其他**                                                     |                                                              |                                                            |
 | Mp3Tag(修改专辑信息)                                         | [PicGo](https://github.com/Molunerfinn/PicGo/releases)(上传图片到各大图床) | Xmind(流程图脑图)                                          |
 
+> Infinity(美化浏览器标签页)效果
+
+![](https://raw.githubusercontent.com/fengyehong123/img/master/20191220084200.png)
+
+> Adblock Plus(屏蔽广告)使用之前
+
+![](https://raw.githubusercontent.com/fengyehong123/img/master/20191220084808.png)
+
+> Adblock Plus(屏蔽广告)使用后=>没错就是这么纯净,我们还可以基于某些网站允许广告展示,支持网站的发展
+
+![](https://raw.githubusercontent.com/fengyehong123/img/master/20191220085117.png)
+
 # 导航站
 
 | [钛导航](https://www.ve2x.com/)  这个必须牛逼!!! | [滚石导航](https://www.jawy.cn/)      | [沃客导航](https://www.9178.work/index.html) |
 | ------------------------------------------------ | ------------------------------------- | -------------------------------------------- |
 | [24K导航](https://www.24kdh.com/)                | [影迷导航](http://www.yingmi123.com/) | [小X导航](https://github.com/pgfldh/XXFLDH)  |
-| [eryaif导航](http://nav.eryajf.net/)             |                                       |                                              |
+| [eryaif导航](http://nav.eryajf.net/)             | [321酷](http://321ku.com/)            |                                              |
 
 # 程序员资源
 
