@@ -3,13 +3,9 @@
 
 千万用新内核的浏览器来使用Github,否则很多按钮用不了啊.o(╥﹏╥)o
 
-> 以下全部网站均为本人日常收集,不涉及任何推广.列出只为分享,仅此而已
->
-> 请勿做违法的事情,谢谢
-
 > 一下全部网站均为本人日常收集,不涉及任何推广.列出只为分享,仅此而已
 >
-> 请勿做违法的事情,谢谢
+> 请勿做违法盗版侵权的事情,谢谢
 
 # 二次元
 
@@ -220,4 +216,10 @@
 | [52download](http://www.52download.cn/wpcourse/) | [Java1234](http://www.java1234.com/)         | [刘江博客](http://www.liujiangblog.com/blog/) |
 | [实验楼](https://www.shiyanlou.com/)             | [网易云课堂](https://study.163.com/)         | [慕课网](https://www.imooc.com/)              |
 | [黑马程序员视频库](http://yun.itheima.com/)      | [自强学堂](https://code.ziqiangxuetang.com/) | [我要自学网](https://www.51zxw.net/)          |
+
+# 电子书
+
+| [sobooks](https://sobooks.cc/)     | [三秋书屋](https://www.d4j.cn/)       | [Kindleer](https://kindleer.com/)                    |
+| ---------------------------------- | ------------------------------------- | ---------------------------------------------------- |
+| [缤闹论坛](http://www.binnao.com/) | [ePUBee](http://cn.epubee.com/books/) | [Mdict词典](https://www.pdawiki.com/forum/forum.php) |
 
