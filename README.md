@@ -40,6 +40,10 @@
 # 翻墙站
 
 > 有很多网址不是访问不了,而是被和谐了.只有翻墙后才能访问,但是不访问这些网站却翻不出去,这是一个先有鸡还是先有蛋的问题.但总还是有些网址能在墙内访问的
+>
+> - VPN翻墙的时代已经过去了
+> - 目前主要靠Shadowsocks翻墙
+> - V2Ray也是不错的选择
 
 | 教程                                                         |                                                              |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -60,6 +64,9 @@
 | [Brook](https://github.com/txthinking/brook/releases)        | [谷歌访问助手](https://github.com/haotian-wang/google-access-helper/releases) |                                                              |                                                              |
 
 > 资源获取
+>
+> - 本人一直用樱花云和酸奶的SSR资源
+> - 樱花云提供V2Ray翻墙资源
 
 | 地址发布页                                         |                                                              |                                       |                                                             |
 | -------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------- | ----------------------------------------------------------- |
@@ -81,19 +88,20 @@
 >
 > 例如:屏蔽广告 例如:路由器安装固件,实现路由器代理转发,供连接所有路由器的设备翻墙
 
-| [路由网](https://www.luyouwang.net/)                         |                                                           |                                                            |                                                |
+| - [路由网](https://www.luyouwang.net/)                       |                                                           |                                                            |                                                |
 | ------------------------------------------------------------ | --------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------- |
-| **路由器固件**                                               |                                                           |                                                            |                                                |
+| **路由器固件下载**                                           |                                                           |                                                            |                                                |
 | [梅林固件](https://www.asuswrt-merlin.net/)                  | [老毛子固件](http://opt.cn2qq.com/padavan/)               | [潘多拉固件](https://downloads.pangubox.com/pandorabox/)   | [openwrt官网](https://openwrt.org/)            |
 | [openwrt教程](https://github.com/softwaredownload/openwrt-fanqiang) | [openwrt教程](http://www.openwrt.org.cn/)                 | [openwrt固件](https://github.com/openwrt/openwrt/releases) | [koolshare固件](http://firmware.koolshare.cn/) |
 | [koolshare论坛](https://koolshare.cn/portal.php)             | [梅林安装Clash](https://github.com/KOP-XIAO/Clash-Merlin) |                                                            |                                                |
 
 # 电影站
 
-| [电影天堂](https://www.dytt8.net/index0.html) | [电影家园](http://www.idyjy.com/)       | [龙部落](http://www.lbldy.com/)                  | [BD影视](https://www.bd-film.cc/) |
-| --------------------------------------------- | --------------------------------------- | ------------------------------------------------ | --------------------------------- |
-| [920电影网](http://www.920dy.cc/)             | [古哥论坛](http://www.gugeys.cc/)       | [BT猫](https://www.btmao.cc/)                    | [BT之家](http://www.6btbtt.com/)  |
-| [非极速](http://feijisu8.com/acg/)            | [田鸡影院](http://www.tianjiyy123.com/) | [万能命令](https://wanneng.run/cn/)  强烈推荐!!! |                                   |
+| [电影天堂](https://www.dytt8.net/index0.html) | [电影家园](http://www.idyjy.com/)       | [龙部落](http://www.lbldy.com/)           | [BD影视](https://www.bd-film.cc/) |
+| --------------------------------------------- | --------------------------------------- | ----------------------------------------- | --------------------------------- |
+| [920电影网](http://www.920dy.cc/)             | [古哥论坛](http://www.gugeys.cc/)       | [BT猫](https://www.btmao.cc/)             | [BT之家](http://www.6btbtt.com/)  |
+| [非极速](http://feijisu8.com/acg/)            | [田鸡影院](http://www.tianjiyy123.com/) | [万能命令](https://wanneng.run/cn/)(推荐) | [中国高清网](http://gaoqing.la/)  |
+| [疯狂影视搜索](http://ifkdy.com/)             | [看看屋](https://www.kankanwu.com/)     | [94神马电影网](http://www.9rmb.com/)      |                                   |
 
 # 音乐站
 
@@ -115,7 +123,7 @@
 | [WallPaper](https://wall.alphacoders.com/)  推荐!!           | [wallhaven](https://wallhaven.cc/)           | [wallpaperscraft](https://wallpaperscraft.com/) |
 | ------------------------------------------------------------ | -------------------------------------------- | ----------------------------------------------- |
 | [wallhere](https://wallhere.com/)                            | [simpledesktops](http://simpledesktops.com/) | [彼岸图网](http://pic.netbian.com/)             |
-| [Wallpaper_Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)  <br />需要付费,但很棒!!!强烈推荐,但占用大量资源 |                                              |                                                 |
+| [Wallpaper_Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)  <br />需要付费(12元),但效果很棒!!!<br />占用部分内存,适合装X |                                              |                                                 |
 
 # 纪录片
 
@@ -181,7 +189,7 @@
 | [Snipaste](https://www.snipaste.com/)(截图神器)              | [faststone](https://www.faststone.org/)(小巧的录屏软件+长截图) | 2345看图王(破解版本)                                       |
 | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases/tag/2.19.3) (小巧+录制Gif) |                                                              |                                                            |
 | **播放器**                                                   |                                                              |                                                            |
-| PotPlayer                                                    | [VLC](https://www.videolan.org/)                             |                                                            |
+| PotPlayer(推荐!)                                             | [VLC](https://www.videolan.org/)                             |                                                            |
 | **系统增强**                                                 |                                                              |                                                            |
 | Listary(快速搜索电脑内文件)                                  | Clover(收纳文件夹标签)                                       | Wise Auto Shutdown(定时关机)                               |
 | IObit Uninstaller Pro(软件卸载)                              | [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)(内存流量监控) | Sublime(文本处理)                                          |
@@ -204,10 +212,12 @@
 
 # 导航站
 
-| [钛导航](https://www.ve2x.com/)  这个必须牛逼!!! | [滚石导航](https://www.jawy.cn/)      | [沃客导航](https://www.9178.work/index.html) |
-| ------------------------------------------------ | ------------------------------------- | -------------------------------------------- |
-| [24K导航](https://www.24kdh.com/)                | [影迷导航](http://www.yingmi123.com/) | [小X导航](https://github.com/pgfldh/XXFLDH)  |
-| [eryaif导航](http://nav.eryajf.net/)             | [321酷](http://321ku.com/)            |                                              |
+> 每一个导航站中另包含了很多的网站,资源获取必备
+
+| [钛导航](https://www.ve2x.com/)  推荐! | [炫猿导航](https://oo1.win/) 推荐!    | [沃客导航](https://www.9178.work/index.html) |
+| -------------------------------------- | ------------------------------------- | -------------------------------------------- |
+| [24K导航](https://www.24kdh.com/)      | [影迷导航](http://www.yingmi123.com/) | [小X导航](https://github.com/pgfldh/XXFLDH)  |
+| [eryaif导航](http://nav.eryajf.net/)   | [321酷](http://321ku.com/)            | [滚石导航](https://www.jawy.cn/)             |
 
 # 程序员资源
 
@@ -217,7 +227,7 @@
 | [实验楼](https://www.shiyanlou.com/)             | [网易云课堂](https://study.163.com/)         | [慕课网](https://www.imooc.com/)              |
 | [黑马程序员视频库](http://yun.itheima.com/)      | [自强学堂](https://code.ziqiangxuetang.com/) | [我要自学网](https://www.51zxw.net/)          |
 
-# 电子书
+# 电子书+词典
 
 | [sobooks](https://sobooks.cc/)     | [三秋书屋](https://www.d4j.cn/)       | [Kindleer](https://kindleer.com/)                    |
 | ---------------------------------- | ------------------------------------- | ---------------------------------------------------- |
