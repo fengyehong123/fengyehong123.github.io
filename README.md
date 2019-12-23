@@ -95,30 +95,31 @@
 | [openwrt教程](https://github.com/softwaredownload/openwrt-fanqiang) | [openwrt教程](http://www.openwrt.org.cn/)                 | [openwrt固件](https://github.com/openwrt/openwrt/releases) | [koolshare固件](http://firmware.koolshare.cn/) |
 | [koolshare论坛](https://koolshare.cn/portal.php)             | [梅林安装Clash](https://github.com/KOP-XIAO/Clash-Merlin) |                                                            |                                                |
 
-# 电影站
+# 电影+电视剧
 
-| [电影天堂](https://www.dytt8.net/index0.html) | [电影家园](http://www.idyjy.com/)       | [龙部落](http://www.lbldy.com/)           | [BD影视](https://www.bd-film.cc/) |
-| --------------------------------------------- | --------------------------------------- | ----------------------------------------- | --------------------------------- |
-| [920电影网](http://www.920dy.cc/)             | [古哥论坛](http://www.gugeys.cc/)       | [BT猫](https://www.btmao.cc/)             | [BT之家](http://www.6btbtt.com/)  |
-| [非极速](http://feijisu8.com/acg/)            | [田鸡影院](http://www.tianjiyy123.com/) | [万能命令](https://wanneng.run/cn/)(推荐) | [中国高清网](http://gaoqing.la/)  |
-| [疯狂影视搜索](http://ifkdy.com/)             | [看看屋](https://www.kankanwu.com/)     | [94神马电影网](http://www.9rmb.com/)      |                                   |
+| [电影天堂](https://www.dytt8.net/index0.html) | [电影家园](http://www.idyjy.com/)       | [龙部落](http://www.lbldy.com/)           | [BD影视](https://www.bd-film.cc/)    |
+| --------------------------------------------- | --------------------------------------- | ----------------------------------------- | ------------------------------------ |
+| [920电影网](http://www.920dy.cc/)             | [古哥论坛](http://www.gugeys.cc/)       | [BT猫](https://www.btmao.cc/)             | [BT之家](http://www.6btbtt.com/)     |
+| [非极速](http://feijisu8.com/acg/)            | [田鸡影院](http://www.tianjiyy123.com/) | [万能命令](https://wanneng.run/cn/)(推荐) | [中国高清网](http://gaoqing.la/)     |
+| [疯狂影视搜索](http://ifkdy.com/)             | [看看屋](https://www.kankanwu.com/)     | [94神马电影网](http://www.9rmb.com/)      | [完美看看](https://www.wanmeikk.me/) |
+| [片库](https://www.pianku.tv/)                | [1090影视](https://1090ys.com/)         |                                           |                                      |
 
 # 音乐站
 
 > 随着各大平台对版权的激烈争夺,听个歌都要下载好几个APP,开好几个会员了.这个真忍不了
 
-| [50Yin](https://www.50yin.com/)                  | [listen1](https://github.com/listen1) | [音乐格式在线转换](https://cloudconvert.com/flac-to-mp3)     | [网易云,QQ音乐格式解锁](https://moresound.tk/music/tool/) |
-| ------------------------------------------------ | ------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- |
-| [音乐解锁](https://github.com/ix64/unlock-music) | [FreeMp3](http://mctool.cn/music/)    | **[UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)** | [漫音社](http://www.acgjc.com/)                           |
-| [91Flac](https://www.91flac.com/)                |                                       |                                                              |                                                           |
+| [50Yin](https://www.50yin.com/)                  | [listen1](https://github.com/listen1)  | [音乐格式在线转换](https://cloudconvert.com/flac-to-mp3)     | [网易云,QQ音乐格式解锁](https://moresound.tk/music/tool/) |
+| ------------------------------------------------ | -------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- |
+| [音乐解锁](https://github.com/ix64/unlock-music) | [FreeMp3](http://mctool.cn/music/)     | **[UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)** | [漫音社](http://www.acgjc.com/)                           |
+| [91Flac](https://www.91flac.com/)                | [超高无损音乐](https://www.sq688.com/) |                                                              |                                                           |
 
-# 漫画
+# 漫画站
 
 | [漫画DB](https://www.manhuadb.com/)   | [土豪漫画](https://www.tohomh123.com/)    | [Kindle漫画](https://volmoe.com/)    强烈推荐!!! |
 | ------------------------------------- | :---------------------------------------- | :----------------------------------------------- |
 | [kindle漫画小站](http://kindlemh.cc/) | [Kindle漫画](http://www.kindlecomic.net/) | [漫画补档](https://www.manhuabudang.com/)        |
 
-# 壁纸
+# 壁纸站
 
 | [WallPaper](https://wall.alphacoders.com/)  推荐!!           | [wallhaven](https://wallhaven.cc/)           | [wallpaperscraft](https://wallpaperscraft.com/) |
 | ------------------------------------------------------------ | -------------------------------------------- | ----------------------------------------------- |
@@ -131,7 +132,7 @@
 | ----------------------------------- | ----------------------------------- | ---- |
 | B站的纪录片                         |                                     |      |
 
-# 日剧
+# 日剧站
 
 | [心动日剧](http://www.doki8.com/)        | [追新番](http://www.zhuixinfan.com/main.php) | [人人影视](http://www.zmz2019.com/) |
 | ---------------------------------------- | -------------------------------------------- | ----------------------------------- |
@@ -154,6 +155,7 @@
 | [爱资料在线工具](https://www.toolnb.com/) | [兔二工具箱](https://www.tool2.cn/)                    | [在线工具](https://tool.lu/)            |
 | [免费网络应用](https://123apps.com/cn/)   | [一次性邮箱](https://temp-mail.org/zh/)                | [免费图床](https://www.jawy.cn/pic/)    |
 | [万能命令](https://wanneng.run/cn/)       | [云端应用](https://img.uzer.me/uzstatics/upgrade.html) | [大文件传输](https://www.wenshushu.cn/) |
+| [GIF工具之家](https://tool.gifhome.com/)  |                                                        |                                         |
 
 # 系统装机
 
@@ -219,7 +221,7 @@
 | [24K导航](https://www.24kdh.com/)      | [影迷导航](http://www.yingmi123.com/) | [小X导航](https://github.com/pgfldh/XXFLDH)  |
 | [eryaif导航](http://nav.eryajf.net/)   | [321酷](http://321ku.com/)            | [滚石导航](https://www.jawy.cn/)             |
 
-# 程序员资源
+# 编程资源站
 
 | [52Study](http://www.52studyit.com/)             | [吾爱IT](https://www.52itb.com/)             | [IT教程](https://www.itjc8.com/)              |
 | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------- |
