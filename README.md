@@ -2,7 +2,6 @@
 > 心血来潮时的想法和一些技巧资源分享
 
 千万用新内核的浏览器来使用Github,否则很多按钮用不了啊.o(╥﹏╥)o
-
 > 一下全部网站均为本人日常收集,不涉及任何推广.列出只为分享,仅此而已
 >
 > 请勿做违法盗版侵权的事情,谢谢
@@ -163,6 +162,7 @@
 | ------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
 | [爱纯净](http://www.aichunjing.com/) | [一键Ghost](http://doshome.com/yj/index.html) | [PE工具箱](http://www.tongyongpe.com/)                       |
 | [装机吧](http://www.zhuangjiba.com/) | [Windows之家](http://www.windowszj.com/)      | [凤凰系统](http://www.phoenixos.com/download_x86)  电脑安装安卓 |
+|                                      |                                               | [windows精简系统](https://www.winos.me/)                     |
 
 # 推荐软件和浏览器插件
 
@@ -212,6 +212,14 @@
 
 ![](https://raw.githubusercontent.com/fengyehong123/img/master/20191220085117.png)
 
+> Clover文件夹标签收纳效果
+
+![](https://raw.githubusercontent.com/fengyehong123/img/master/20191223084959.png)
+
+> TrafficMonitor内存流量监控效果
+
+![](https://raw.githubusercontent.com/fengyehong123/img/master/20191223085426.png)
+
 # 导航站
 
 > 每一个导航站中另包含了很多的网站,资源获取必备
@@ -234,4 +242,5 @@
 | [sobooks](https://sobooks.cc/)     | [三秋书屋](https://www.d4j.cn/)       | [Kindleer](https://kindleer.com/)                    |
 | ---------------------------------- | ------------------------------------- | ---------------------------------------------------- |
 | [缤闹论坛](http://www.binnao.com/) | [ePUBee](http://cn.epubee.com/books/) | [Mdict词典](https://www.pdawiki.com/forum/forum.php) |
+
 
