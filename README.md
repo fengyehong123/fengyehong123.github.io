@@ -1,4 +1,5 @@
 # article
+
 > 心血来潮时的想法和一些技巧资源分享
 
 千万用新内核的浏览器来使用Github,否则很多按钮用不了啊.o(╥﹏╥)o
@@ -101,7 +102,7 @@
 | [920电影网](http://www.920dy.cc/)             | [古哥论坛](http://www.gugeys.cc/)       | [BT猫](https://www.btmao.cc/)             | [BT之家](http://www.6btbtt.com/)     |
 | [非极速](http://feijisu8.com/acg/)            | [田鸡影院](http://www.tianjiyy123.com/) | [万能命令](https://wanneng.run/cn/)(推荐) | [中国高清网](http://gaoqing.la/)     |
 | [疯狂影视搜索](http://ifkdy.com/)             | [看看屋](https://www.kankanwu.com/)     | [94神马电影网](http://www.9rmb.com/)      | [完美看看](https://www.wanmeikk.me/) |
-| [片库](https://www.pianku.tv/)                | [1090影视](https://1090ys.com/)         |                                           |                                      |
+| [片库](https://www.pianku.tv/)                | [1090影视](https://1090ys.com/)         | [片源网](http://pianyuan.la/)             | [电影港](http://www.dygangs.com/)    |
 
 # 音乐站
 
@@ -123,13 +124,13 @@
 | [WallPaper](https://wall.alphacoders.com/)  推荐!!           | [wallhaven](https://wallhaven.cc/)           | [wallpaperscraft](https://wallpaperscraft.com/) |
 | ------------------------------------------------------------ | -------------------------------------------- | ----------------------------------------------- |
 | [wallhere](https://wallhere.com/)                            | [simpledesktops](http://simpledesktops.com/) | [彼岸图网](http://pic.netbian.com/)             |
-| [Wallpaper_Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)  <br />需要付费(12元),但效果很棒!!!<br />占用部分内存,适合装X |                                              |                                                 |
+| [Wallpaper_Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)  <br />需要付费(12元),但效果很棒!!!<br />占用部分内存,适合装X | [wallroom](https://wallroom.io/)             |                                                 |
 
 # 纪录片
 
-| [纪录片之家](http://www.jlpdq.com/) | [纪录片大全](https://www.05jl.com/) |      |
-| ----------------------------------- | ----------------------------------- | ---- |
-| B站的纪录片                         |                                     |      |
+| [纪录片之家](http://www.jlpdq.com/) | [纪录片大全](https://www.05jl.com/) | --占位备用-- |
+| ----------------------------------- | ----------------------------------- | ------------ |
+| B站的纪录片                         |                                     |              |
 
 # 日剧站
 
@@ -145,7 +146,7 @@
 | [高清范](http://www.hdpfans.com/)                            | [流量族](http://liuliangzu.com/)  <br />获取性价比高的手机卡 | [新极品](http://www.xinjipin.com/)  <br />购买账号           |
 | [浏览器脚本](https://greasyfork.org/zh-CN) <br />配合油猴插件,拓展浏览器功能 | [拓展迷](https://www.extfans.com/)  <br />谷歌内核浏览器插件 | [逗比脚本](https://github.com/ToyoDAdoubi)                   |
 | [谷歌搜索镜像站](https://www.uedbox.com/post/54776/)         | [BT-btt](https://bt-btt.com)                                 | [网盘搜索](http://magnet.chongbuluo.com/)                    |
-| [TopBook](https://topbook.cc/overview)  高效生活工作         | [编程随想](https://program-think.blogspot.com/)(需要翻墙)    | [奶酪书签专业版](https://www.runningcheese.com/cheesebookmarks) |
+| [TopBook](https://topbook.cc/overview)  高效生活工作(推荐!)  | [编程随想](https://program-think.blogspot.com/)(需要翻墙)    | [奶酪书签专业版](https://www.runningcheese.com/cheesebookmarks) |
 
 # 工具站
 
@@ -154,7 +155,7 @@
 | [爱资料在线工具](https://www.toolnb.com/) | [兔二工具箱](https://www.tool2.cn/)                    | [在线工具](https://tool.lu/)            |
 | [免费网络应用](https://123apps.com/cn/)   | [一次性邮箱](https://temp-mail.org/zh/)                | [免费图床](https://www.jawy.cn/pic/)    |
 | [万能命令](https://wanneng.run/cn/)       | [云端应用](https://img.uzer.me/uzstatics/upgrade.html) | [大文件传输](https://www.wenshushu.cn/) |
-| [GIF工具之家](https://tool.gifhome.com/)  |                                                        |                                         |
+| [GIF工具之家](https://tool.gifhome.com/)  | [网盘提取码查询](https://pnote.net/pan/)               |                                         |
 
 # 系统装机
 
@@ -183,11 +184,12 @@
 | 火绒安全(小巧干净无捆绑弹窗)                                 |                                                              |                                                            |
 | **浏览器**                                                   |                                                              |                                                            |
 | [百分浏览器](https://www.centbrowser.cn/)(基于谷歌内核,国产) | 谷歌浏览器                                                   | Via(安卓,小巧轻便,无推广)                                  |
-| 火狐浏览器                                                   | [奔跑中的奶酪](https://www.runningcheese.com/)(博主二次开发定制浏览器) |                                                            |
+| 火狐浏览器                                                   | [奔跑中的奶酪](https://firefox.runningcheese.com/)(博主基于火狐二次开发定制的浏览器) |                                                            |
 | **[浏览器插件](https://www.extfans.com/)**                   |                                                              |                                                            |
 | Infinity(美化浏览器标签页)                                   | Adblock Plus(屏蔽广告)                                       | 油猴(浏览器脚本插件)                                       |
 | **下载**                                                     |                                                              |                                                            |
 | **uTorrent**(Pro版可边下边播)                                | **IDM**(推荐!)                                               | **qBittorrent**                                            |
+| 冰点文库下载(免费下载百度文库等文档)                         |                                                              |                                                            |
 | **图像处理**                                                 |                                                              |                                                            |
 | [Snipaste](https://www.snipaste.com/)(截图神器)              | [faststone](https://www.faststone.org/)(小巧的录屏软件+长截图) | 2345看图王(破解版本)                                       |
 | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases/tag/2.19.3) (小巧+录制Gif) |                                                              |                                                            |
@@ -197,9 +199,10 @@
 | Listary(快速搜索电脑内文件)                                  | Clover(收纳文件夹标签)                                       | Wise Auto Shutdown(定时关机)                               |
 | IObit Uninstaller Pro(软件卸载)                              | [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)(内存流量监控) | Sublime(文本处理)                                          |
 | [TeamViewer](https://masuit.com/118/TeamViewer)(远程控制)    | [CCleaner](https://www.ccleaner.com/)(系统清理)              | [Dism++](http://www.chuyu.me/zh-Hans/index.html)(系统优化) |
-| 软媒美化大师                                                 | 盘姬工作箱                                                   |                                                            |
+| 软媒美化大师                                                 | 盘姬工作箱                                                   | SpaceSniffer(可视化界面展示硬盘占用资源)                   |
+| Recuva(恢复删除的文件)                                       | Office Tab(收纳office,标签管理)                              |                                                            |
 | **其他**                                                     |                                                              |                                                            |
-| Mp3Tag(修改专辑信息)                                         | [PicGo](https://github.com/Molunerfinn/PicGo/releases)(上传图片到各大图床) | Xmind(流程图脑图)                                          |
+| Mp3Tag(修改歌曲专辑信息)                                     | [PicGo](https://github.com/Molunerfinn/PicGo/releases)(上传图片到各大图床) | Xmind(流程图脑图)                                          |
 
 
 # 导航站
@@ -249,6 +252,6 @@
 
 - 油猴脚本的使用效果
 
-  ![](https://raw.githubusercontent.com/fengyehong123/img/master/20191224085658.png)
-  
-  ![](https://raw.githubusercontent.com/fengyehong123/img/master/20191224085301.png)
+![](https://raw.githubusercontent.com/fengyehong123/img/master/20191224085658.png)
+
+![](https://raw.githubusercontent.com/fengyehong123/img/master/20191224085301.png)
