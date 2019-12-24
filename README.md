@@ -2,7 +2,8 @@
 > 心血来潮时的想法和一些技巧资源分享
 
 千万用新内核的浏览器来使用Github,否则很多按钮用不了啊.o(╥﹏╥)o
-> 一下全部网站均为本人日常收集,不涉及任何推广.列出只为分享,仅此而已
+
+> 以下全部网站均为本人日常收集,不涉及任何推广.列出只为分享,仅此而已
 >
 > 请勿做违法盗版侵权的事情,谢谢
 
@@ -25,7 +26,6 @@
 
 > 由于是个人站长进行维护,所以可能有些网站会失效.
 >
-> 补上一句:苏州思杰马克丁,Fuc...
 
 | [大眼仔旭](http://www.dayanzai.me/)        | [懒得勤快](https://masuit.com/)           | [夜雨聆风](http://www.yeyulingfeng.com/) | [便携软件](https://portableappk.com/)          |
 | ------------------------------------------ | ----------------------------------------- | ---------------------------------------- | ---------------------------------------------- |
@@ -139,13 +139,13 @@
 
 # 资源站
 
-| [无作为](https://www.wuzuowei.net)                           | [阿虚](https://github.com/axutongxue/Article-backup/issues)  推荐! | [阿虚同学的储物间](http://kyon945.ys168.com/)      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------- |
-| [吾爱破解](https://www.52pojie.cn/)                          | [凨辰隐资源网](http://www.fcyzyw.com/index.html)             | [ED资源共享](https://www.ed2000.com/)              |
-| [高清范](http://www.hdpfans.com/)                            | [流量族](http://liuliangzu.com/)  <br />获取性价比高的手机卡 | [新极品](http://www.xinjipin.com/)  <br />购买账号 |
-| [浏览器脚本](https://greasyfork.org/zh-CN) <br />配合油猴插件,拓展浏览器功能 | [拓展迷](https://www.extfans.com/)  <br />谷歌内核浏览器插件 | [逗比脚本](https://github.com/ToyoDAdoubi)         |
-| [谷歌搜索镜像站](https://www.uedbox.com/post/54776/)         | [BT-btt](https://bt-btt.com)                                 | [网盘搜索](http://magnet.chongbuluo.com/)          |
-| [TopBook](https://topbook.cc/overview)  高效生活工作         | [编程随想](https://program-think.blogspot.com/)(需要翻墙)    |                                                    |
+| [无作为](https://www.wuzuowei.net)(目前无法访问)             | [阿虚](https://github.com/axutongxue/Article-backup/issues)  推荐! | [阿虚同学的储物间](http://kyon945.ys168.com/)                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [吾爱破解](https://www.52pojie.cn/)                          | [凨辰隐资源网](http://www.fcyzyw.com/index.html)             | [ED资源共享](https://www.ed2000.com/)                        |
+| [高清范](http://www.hdpfans.com/)                            | [流量族](http://liuliangzu.com/)  <br />获取性价比高的手机卡 | [新极品](http://www.xinjipin.com/)  <br />购买账号           |
+| [浏览器脚本](https://greasyfork.org/zh-CN) <br />配合油猴插件,拓展浏览器功能 | [拓展迷](https://www.extfans.com/)  <br />谷歌内核浏览器插件 | [逗比脚本](https://github.com/ToyoDAdoubi)                   |
+| [谷歌搜索镜像站](https://www.uedbox.com/post/54776/)         | [BT-btt](https://bt-btt.com)                                 | [网盘搜索](http://magnet.chongbuluo.com/)                    |
+| [TopBook](https://topbook.cc/overview)  高效生活工作         | [编程随想](https://program-think.blogspot.com/)(需要翻墙)    | [奶酪书签专业版](https://www.runningcheese.com/cheesebookmarks) |
 
 # 工具站
 
@@ -183,10 +183,11 @@
 | 火绒安全(小巧干净无捆绑弹窗)                                 |                                                              |                                                            |
 | **浏览器**                                                   |                                                              |                                                            |
 | [百分浏览器](https://www.centbrowser.cn/)(基于谷歌内核,国产) | 谷歌浏览器                                                   | Via(安卓,小巧轻便,无推广)                                  |
+| 火狐浏览器                                                   | [奔跑中的奶酪](https://www.runningcheese.com/)(博主二次开发定制浏览器) |                                                            |
 | **[浏览器插件](https://www.extfans.com/)**                   |                                                              |                                                            |
 | Infinity(美化浏览器标签页)                                   | Adblock Plus(屏蔽广告)                                       | 油猴(浏览器脚本插件)                                       |
 | **下载**                                                     |                                                              |                                                            |
-| uTorrent                                                     | IDM                                                          |                                                            |
+| **uTorrent**(Pro版可边下边播)                                | **IDM**(推荐!)                                               | **qBittorrent**                                            |
 | **图像处理**                                                 |                                                              |                                                            |
 | [Snipaste](https://www.snipaste.com/)(截图神器)              | [faststone](https://www.faststone.org/)(小巧的录屏软件+长截图) | 2345看图王(破解版本)                                       |
 | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases/tag/2.19.3) (小巧+录制Gif) |                                                              |                                                            |
@@ -200,25 +201,6 @@
 | **其他**                                                     |                                                              |                                                            |
 | Mp3Tag(修改专辑信息)                                         | [PicGo](https://github.com/Molunerfinn/PicGo/releases)(上传图片到各大图床) | Xmind(流程图脑图)                                          |
 
-> Infinity(美化浏览器标签页)效果
-
-![](https://raw.githubusercontent.com/fengyehong123/img/master/20191220084200.png)
-
-> Adblock Plus(屏蔽广告)使用之前
-
-![](https://raw.githubusercontent.com/fengyehong123/img/master/20191220084808.png)
-
-> Adblock Plus(屏蔽广告)使用后=>没错就是这么纯净,我们还可以基于某些网站允许广告展示,支持网站的发展
-
-![](https://raw.githubusercontent.com/fengyehong123/img/master/20191220085117.png)
-
-> Clover文件夹标签收纳效果
-
-![](https://raw.githubusercontent.com/fengyehong123/img/master/20191223084959.png)
-
-> TrafficMonitor内存流量监控效果
-
-![](https://raw.githubusercontent.com/fengyehong123/img/master/20191223085426.png)
 
 # 导航站
 
@@ -243,4 +225,30 @@
 | ---------------------------------- | ------------------------------------- | ---------------------------------------------------- |
 | [缤闹论坛](http://www.binnao.com/) | [ePUBee](http://cn.epubee.com/books/) | [Mdict词典](https://www.pdawiki.com/forum/forum.php) |
 
+# 部分软件/插件使用效果
 
+- **Infinity(美化浏览器标签页)效果**
+
+![](https://raw.githubusercontent.com/fengyehong123/img/master/20191220084200.png)
+
+> Adblock Plus(屏蔽广告)使用之前
+
+![](https://raw.githubusercontent.com/fengyehong123/img/master/20191220084808.png)
+
+> Adblock Plus(屏蔽广告)使用后=>没错就是这么纯净,我们还可以基于某些网站允许广告展示,支持网站的发展
+
+![](https://raw.githubusercontent.com/fengyehong123/img/master/20191220085117.png)
+
+- **Clover文件夹标签收纳效果**
+
+![](https://raw.githubusercontent.com/fengyehong123/img/master/20191223084959.png)
+
+- **TrafficMonitor内存流量监控效果**
+
+<img src="https://raw.githubusercontent.com/fengyehong123/img/master/20191223085426.png" style="zoom: 67%;" />
+
+- 油猴脚本的使用效果
+
+  ![](https://raw.githubusercontent.com/fengyehong123/img/master/20191224085658.png)
+  
+  ![](https://raw.githubusercontent.com/fengyehong123/img/master/20191224085301.png)
