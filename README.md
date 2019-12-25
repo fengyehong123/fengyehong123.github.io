@@ -4,7 +4,9 @@
 
 千万用新内核的浏览器来使用Github,否则很多按钮用不了啊.o(╥﹏╥)o
 
-> 以下全部网站均为本人日常收集,不涉及任何推广.列出只为分享,仅此而已
+> - [ ] 以下全部网站均为本人日常收集,不涉及任何推广.列出只为分享,仅此而已
+>
+> - [ ] 以下网站排名不分先后
 >
 > 请勿做违法盗版侵权的事情,谢谢
 
@@ -28,14 +30,24 @@
 > 由于是个人站长进行维护,所以可能有些网站会失效.
 >
 
-| [大眼仔旭](http://www.dayanzai.me/)        | [懒得勤快](https://masuit.com/)           | [夜雨聆风](http://www.yeyulingfeng.com/) | [便携软件](https://portableappk.com/)          |
-| ------------------------------------------ | ----------------------------------------- | ---------------------------------------- | ---------------------------------------------- |
-| [胡萝卜周](http://www.carrotchou.blog/)    | [NoCmd](https://www.nocmd.com/)           | [QiuQuan](http://www.qiuquan.cc/)        | [th_sjy](http://www.th-sjy.com/)               |
-| [ZD423](http://www.zdfans.com/)            | [黑域基地](http://www.hackhw.com/)        | [Cencrack](http://cencrack.com/)         | [豌豆荚](https://www.wandoujia.com/)           |
-| [日本软件](https://win10app.vector.co.jp/) | [正版中国](https://getitfree.cn/)         | [小众软件](https://www.appinn.com/)      | [宋永志博客](http://www.songyongzhi.com/)      |
-| [Windows激活](https://v0v.bid/)            | [小笨分享](https://zhouxiaoben.info/src/) | [慕若曦博客](https://www.muruoxi.com/)   | [MSDN,我告诉你](https://msdn.itellyou.cn/)     |
-| [软件SOS](https://www.rjsos.com/)          | [系统迷](https://www.xitmi.com/)          | [小冷博客](https://www.chromeba.net/)    | [白的夜](https://www.baideye.com/)             |
-| [423down](https://www.423down.com/)        | [风刑软件](https://www.wsf1234.com/)      | [麦田一颗葱](https://www.52maicong.com/) | [奔跑中的奶酪](https://www.runningcheese.com/) |
+| [大眼仔旭](http://www.dayanzai.me/)        | [懒得勤快](https://masuit.com/)                    | [夜雨聆风](http://www.yeyulingfeng.com/) | [便携软件](https://portableappk.com/)          |
+| ------------------------------------------ | -------------------------------------------------- | ---------------------------------------- | ---------------------------------------------- |
+| [胡萝卜周](http://www.carrotchou.blog/)    | [NoCmd](https://www.nocmd.com/)                    | [QiuQuan](http://www.qiuquan.cc/)        | [th_sjy](http://www.th-sjy.com/)               |
+| [ZD423](http://www.zdfans.com/)            | [黑域基地](http://www.hackhw.com/)                 | [Cencrack](http://cencrack.com/)         | [异次元软件](https://www.iplaysoft.com/)       |
+| [日本软件](https://win10app.vector.co.jp/) | [正版中国](https://getitfree.cn/)                  | [小众软件](https://www.appinn.com/)      | [宋永志博客](http://www.songyongzhi.com/)      |
+| [Windows激活](https://v0v.bid/)            | [小笨分享](https://zhouxiaoben.info/src/)          | [慕若曦博客](https://www.muruoxi.com/)   | [MSDN,我告诉你](https://msdn.itellyou.cn/)     |
+| [软件SOS](https://www.rjsos.com/)          | [系统迷](https://www.xitmi.com/)                   | [小冷博客](https://www.chromeba.net/)    | [白的夜](https://www.baideye.com/)             |
+| [423down](https://www.423down.com/)        | [风刑软件](https://www.wsf1234.com/)               | [麦田一颗葱](https://www.52maicong.com/) | [奔跑中的奶酪](https://www.runningcheese.com/) |
+| [软件缘](https://www.appcgn.com/)          | [MAC毒](https://www.macdo.cn/)<br />(苹果电脑软件) | [乐软博客](https://www.isharepc.com/)    |                                                |
+
+# 手机APP站
+
+> 如无特殊说明,均默认为安卓应用
+
+| [豌豆荚](https://www.wandoujia.com/)(可下载APP的历史版本) | [酷安](https://www.coolapk.com/)                    | [ApkPure](https://apkpure.com/cn/)相当于谷歌应用市场(需翻墙) |
+| --------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ |
+| [apkdl](https://apkdl.in/)(国外应用市场)                  | [知晓程序](https://minapp.com/miniapp/)(微信小程序) | [捷径库](https://jiejingku.net/)(苹果IOS专用)                |
+| [捷径盒](https://jiejinghe.com/)(苹果IOS专用)             | [APP历史版本查询](https://tools.lancely.tech/index) |                                                              |
 
 # 翻墙站
 
@@ -51,12 +63,13 @@
 | [墙洞使用手册](https://github.com/lhie1/Rules)               | [机场使用手册](https://www.duyaoss.com/archives/1086/)       | [rixCloud](https://rixcloudkb.io/)                           | [SSR指南](https://github.com/s-s-r/wiki)                     |
 | [SSR详细教程](https://www.appmews.com/app/1947/)             | [SSR中文网](https://ssr.tools/)                              | [逗比根据地备份](https://doubibackup.com/)                   | [阿虚](http://mooc1.chaoxing.com/zt/201723393.html?_from_=)  |
 | [翻墙党](https://fanqiangdang.com/blog/)                     | [V2Ray](https://v2s.xyz/index.php?rp=/knowledgebase/1/V2Ray) | [编程随想](https://program-think.blogspot.com/search/label/IT.%E7%BF%BB%E5%A2%99) | [如何翻墙](https://github.com/bannedbook)                    |
+| [翻墙科普](https://github.com/fengyehong123/article/issues/7) | [Alvin9999](https://github.com/Alvin9999/new-pac/wiki)       |                                                              |                                                              |
 | **工具**-`shadowsocks系列`                                   |                                                              |                                                              |                                                              |
 | [ShadowsocksRR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases) | [ShadowsocksR](https://github.com/shadowsocksr-backup)       | [HMBSbige_ShadowsocksR](https://github.com/HMBSbige/ShadowsocksR-Windows) | [Anankke_SSRR](https://github.com/Anankke/SSRR-Windows/releases) |
-| [shadowsocks](https://github.com/shadowsocks)                | [shadowsocks官网](https://shadowsocks.org/en/index.html)     | [SSD](https://github.com/TheCGDF/SSD-Windows)                |                                                              |
+| [shadowsocks](https://github.com/shadowsocks)                | [shadowsocks官网](https://shadowsocks.org/en/index.html)     | [SSD](https://github.com/TheCGDF/SSD-Windows)                | [Shadowrocket苹果版](https://free.shadowrocket.online/)      |
 | **工具**-`V2Ray系列`                                         |                                                              |                                                              |                                                              |
 | [官网](https://www.v2ray.com/)                               | [V2Ray 配置指南](https://toutyrater.github.io/)              | [v2rayN](https://github.com/2dust/v2rayN/releases)           | [配置指南](https://guide.v2fly.org/)                         |
-| [搭建教程](https://github.com/233boy/v2ray/wiki)             |                                                              |                                                              |                                                              |
+| [搭建教程](https://github.com/233boy/v2ray/wiki)             | [使用教程](https://book.v2rayx.org/)                         |                                                              |                                                              |
 | **工具**-`蓝灯`                                              |                                                              |                                                              |                                                              |
 | [官方GitHUb](https://github.com/getlantern)                  | [官网](https://getlantern.org/zh_CN/index.html)              |                                                              |                                                              |
 | **工具**-`其他`                                              |                                                              |                                                              |                                                              |
@@ -77,7 +90,7 @@
 | **V2Ray资源**                                      |                                                              |                                       |                                                             |
 | [蓝岸](https://boom.v2fly.net/clientarea.php)      | [YTOO](https://ytoo.uk/clientarea.php)                       | [Blinkload](https://my.blinkload.org) | [V2Server](https://v2s.xyz)                                 |
 | **SSR/SS资源**                                     |                                                              |                                       |                                                             |
-| [dlercloud](https://dlercloud.co/)                 | [翻墙工夫](https://iplc.store/)                              | [我們所嚮往的](https://wmsxwd1.xyz/#) |                                                             |
+| [dlercloud](https://dlercloud.co/)                 | [翻墙工夫](https://iplc.store/)                              | [我們所嚮往的](https://wmsxwd1.xyz/#) | [ssrcf](https://hi.ssrcf.top/)(该网站禁止大陆ip访问)        |
 | **VPS购买**                                        |                                                              |                                       |                                                             |
 | [搬瓦工](https://bwh88.net/)                       | [搬瓦工中文网](https://www.banwagongzw.com/)                 | [Vultr](https://www.vultr.com/)       | [justmysocks-1](https://justmysocks1.net/members/index.php) |
 | [justmysocks-2](https://justmysocks1.net/members/) | [小夜博客](https://www.vpsmm.com/index.php)                  | [linode](https://www.linode.com/)     |                                                             |
@@ -88,12 +101,12 @@
 >
 > 例如:屏蔽广告 例如:路由器安装固件,实现路由器代理转发,供连接所有路由器的设备翻墙
 
-| - [路由网](https://www.luyouwang.net/)                       |                                                           |                                                            |                                                |
-| ------------------------------------------------------------ | --------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------- |
-| **路由器固件下载**                                           |                                                           |                                                            |                                                |
-| [梅林固件](https://www.asuswrt-merlin.net/)                  | [老毛子固件](http://opt.cn2qq.com/padavan/)               | [潘多拉固件](https://downloads.pangubox.com/pandorabox/)   | [openwrt官网](https://openwrt.org/)            |
-| [openwrt教程](https://github.com/softwaredownload/openwrt-fanqiang) | [openwrt教程](http://www.openwrt.org.cn/)                 | [openwrt固件](https://github.com/openwrt/openwrt/releases) | [koolshare固件](http://firmware.koolshare.cn/) |
-| [koolshare论坛](https://koolshare.cn/portal.php)             | [梅林安装Clash](https://github.com/KOP-XIAO/Clash-Merlin) |                                                            |                                                |
+| - [路由网](https://www.luyouwang.net/)                       | [路由器固件科普](https://github.com/fengyehong123/article/issues/10) |                                                            |                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------------------------------- |
+| **路由器固件下载**                                           |                                                              |                                                            |                                                |
+| [梅林固件](https://www.asuswrt-merlin.net/)                  | [老毛子固件](http://opt.cn2qq.com/padavan/)                  | [潘多拉固件](https://downloads.pangubox.com/pandorabox/)   | [openwrt官网](https://openwrt.org/)            |
+| [openwrt教程](https://github.com/softwaredownload/openwrt-fanqiang) | [openwrt教程](http://www.openwrt.org.cn/)                    | [openwrt固件](https://github.com/openwrt/openwrt/releases) | [koolshare固件](http://firmware.koolshare.cn/) |
+| [koolshare论坛](https://koolshare.cn/portal.php)             | [梅林安装Clash](https://github.com/KOP-XIAO/Clash-Merlin)    |                                                            |                                                |
 
 # 电影+电视剧
 
@@ -111,13 +124,13 @@
 | [50Yin](https://www.50yin.com/)                  | [listen1](https://github.com/listen1)  | [音乐格式在线转换](https://cloudconvert.com/flac-to-mp3)     | [网易云,QQ音乐格式解锁](https://moresound.tk/music/tool/) |
 | ------------------------------------------------ | -------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- |
 | [音乐解锁](https://github.com/ix64/unlock-music) | [FreeMp3](http://mctool.cn/music/)     | **[UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)** | [漫音社](http://www.acgjc.com/)                           |
-| [91Flac](https://www.91flac.com/)                | [超高无损音乐](https://www.sq688.com/) |                                                              |                                                           |
+| [91Flac](https://www.91flac.com/)                | [超高无损音乐](https://www.sq688.com/) | [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop/releases) |                                                           |
 
 # 漫画站
 
-| [漫画DB](https://www.manhuadb.com/)   | [土豪漫画](https://www.tohomh123.com/)    | [Kindle漫画](https://volmoe.com/)    强烈推荐!!! |
-| ------------------------------------- | :---------------------------------------- | :----------------------------------------------- |
-| [kindle漫画小站](http://kindlemh.cc/) | [Kindle漫画](http://www.kindlecomic.net/) | [漫画补档](https://www.manhuabudang.com/)        |
+| [漫画DB](https://www.manhuadb.com/)   | [土豪漫画](https://www.tohomh123.com/)    | [Kindle漫画](https://volmoe.com/)    需付费,强烈推荐!!! |
+| ------------------------------------- | :---------------------------------------- | :------------------------------------------------------ |
+| [kindle漫画小站](http://kindlemh.cc/) | [Kindle漫画](http://www.kindlecomic.net/) | [漫画补档](https://www.manhuabudang.com/)               |
 
 # 壁纸站
 
@@ -150,14 +163,22 @@
 
 # 工具站
 
-| [ByPass分流抢票](https://www.bypass.cn/)  | [PDF在线转换](https://www.ilovepdf.com/zh-cn)          | [二维码生成](https://cli.im/)           |
-| ----------------------------------------- | ------------------------------------------------------ | --------------------------------------- |
-| [爱资料在线工具](https://www.toolnb.com/) | [兔二工具箱](https://www.tool2.cn/)                    | [在线工具](https://tool.lu/)            |
-| [免费网络应用](https://123apps.com/cn/)   | [一次性邮箱](https://temp-mail.org/zh/)                | [免费图床](https://www.jawy.cn/pic/)    |
-| [万能命令](https://wanneng.run/cn/)       | [云端应用](https://img.uzer.me/uzstatics/upgrade.html) | [大文件传输](https://www.wenshushu.cn/) |
-| [GIF工具之家](https://tool.gifhome.com/)  | [网盘提取码查询](https://pnote.net/pan/)               |                                         |
+> 有些网站注册的时候不要用QQ邮箱,QQ邮箱会泄露QQ号,会增大未知风险
+
+| [ByPass分流抢票](https://www.bypass.cn/)                | [通途网](http://www.95105105.com/)(火车票知识)         | [PDF在线转换](https://www.ilovepdf.com/zh-cn) |
+| ------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------- |
+| [12306抢票网](http://www.12306.org.cn/)                 | [兔二工具箱](https://www.tool2.cn/)                    | [在线工具](https://tool.lu/)                  |
+| [爱资料在线工具](https://www.toolnb.com/)               | [一次性邮箱](https://temp-mail.org/zh/)                | [临时邮箱](https://linshiyou.com/)(保护隐私)  |
+| [万能命令](https://wanneng.run/cn/)                     | [云端应用](https://img.uzer.me/uzstatics/upgrade.html) | [大文件传输](https://www.wenshushu.cn/)       |
+| [GIF工具之家](https://tool.gifhome.com/)                | [网盘提取码查询](https://pnote.net/pan/)               | [免费图床](https://www.jawy.cn/pic/)          |
+| [在线接收短信验证码](https://yunduanxin.net/)(保护隐私) | [免费网络应用](https://123apps.com/cn/)                | [二维码生成](https://cli.im/)                 |
+| [网址压缩](http://dwz.wailian.work/)                    | [短网址生成](https://www.985.so/)                      | [网址缩短](http://www.8cc7.com/)              |
 
 # 系统装机
+
+> 可以给电脑装双系统,例如linux+win10或者win7+win10
+>
+> 或者可以通过安装虚拟机的方式在win10中使用linux或者win7
 
 | [大白菜](http://www.bigbaicai.com/)  | [老毛桃](http://www.laomaotao.org/)           | [雨林木风](http://www.ylmfeng.com/index.html)                |
 | ------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
@@ -189,7 +210,7 @@
 | Infinity(美化浏览器标签页)                                   | Adblock Plus(屏蔽广告)                                       | 油猴(浏览器脚本插件)                                       |
 | **下载**                                                     |                                                              |                                                            |
 | **uTorrent**(Pro版可边下边播)                                | **IDM**(推荐!)                                               | **qBittorrent**                                            |
-| 冰点文库下载(免费下载百度文库等文档)                         |                                                              |                                                            |
+| 冰点文库下载(免费下载百度文库等文档)                         | [motrix](https://motrix.app/zh-CN/)                          |                                                            |
 | **图像处理**                                                 |                                                              |                                                            |
 | [Snipaste](https://www.snipaste.com/)(截图神器)              | [faststone](https://www.faststone.org/)(小巧的录屏软件+长截图) | 2345看图王(破解版本)                                       |
 | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases/tag/2.19.3) (小巧+录制Gif) |                                                              |                                                            |
@@ -230,28 +251,10 @@
 
 # 部分软件/插件使用效果
 
-- **Infinity(美化浏览器标签页)效果**
-
-![](https://raw.githubusercontent.com/fengyehong123/img/master/20191220084200.png)
-
-> Adblock Plus(屏蔽广告)使用之前
-
-![](https://raw.githubusercontent.com/fengyehong123/img/master/20191220084808.png)
-
-> Adblock Plus(屏蔽广告)使用后=>没错就是这么纯净,我们还可以基于某些网站允许广告展示,支持网站的发展
-
-![](https://raw.githubusercontent.com/fengyehong123/img/master/20191220085117.png)
-
-- **Clover文件夹标签收纳效果**
-
-![](https://raw.githubusercontent.com/fengyehong123/img/master/20191223084959.png)
-
-- **TrafficMonitor内存流量监控效果**
-
-<img src="https://raw.githubusercontent.com/fengyehong123/img/master/20191223085426.png" style="zoom: 67%;" />
-
-- 油猴脚本的使用效果
-
-![](https://raw.githubusercontent.com/fengyehong123/img/master/20191224085658.png)
-
-![](https://raw.githubusercontent.com/fengyehong123/img/master/20191224085301.png)
+- [**Infinity(美化浏览器标签页)效果**](https://github.com/fengyehong123/img/blob/master/20191220084200.png)
+- [**Adblock Plus(屏蔽广告)使用之前**](https://github.com/fengyehong123/img/blob/master/20191220084808.png)
+- [**Adblock Plus(屏蔽广告)使用后**](https://github.com/fengyehong123/img/blob/master/20191220085117.png)=>屏蔽后纯净,可以允许某些网站显示广告,支持网站的发展
+- [**Clover文件夹标签收纳效果**](https://github.com/fengyehong123/img/blob/master/20191223084959.png)
+- [**TrafficMonitor内存流量监控效果**](https://github.com/fengyehong123/img/blob/master/20191223085426.png)
+- [**油猴脚本的使用效果1**](https://github.com/fengyehong123/img/blob/master/20191224085658.png)
+- [**油猴脚本的使用效果2**](https://github.com/fengyehong123/img/blob/master/20191224085301.png)
