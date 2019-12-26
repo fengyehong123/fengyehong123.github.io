@@ -109,6 +109,7 @@
 | [非极速](http://feijisu8.com/acg/)            | [田鸡影院](http://www.tianjiyy123.com/) | [万能命令](https://wanneng.run/cn/)👍 | [中国高清网](http://gaoqing.la/)     |
 | [疯狂影视搜索](http://ifkdy.com/)             | [看看屋](https://www.kankanwu.com/)     | [94神马电影网](http://www.9rmb.com/) | [完美看看](https://www.wanmeikk.me/) |
 | [片库](https://www.pianku.tv/)                | [1090影视](https://1090ys.com/)         | [片源网](http://pianyuan.la/)        | [电影港](http://www.dygangs.com/)    |
+| [视频鱼](http://www.shipinyu.cn/)             |                                         |                                      |                                      |
 
 # 🎧音乐站
 
@@ -164,6 +165,7 @@
 | [GIF工具之家](https://tool.gifhome.com/)                | [网盘提取码查询](https://pnote.net/pan/)               | [免费图床](https://www.jawy.cn/pic/)          |
 | [在线接收短信验证码](https://yunduanxin.net/)(保护隐私) | [免费网络应用](https://123apps.com/cn/)                | [二维码生成](https://cli.im/)                 |
 | [网址压缩](http://dwz.wailian.work/)                    | [短网址生成](https://www.985.so/)                      | [网址缩短](http://www.8cc7.com/)              |
+| [工具邦](http://cn.piliapp.com/)👍                       |                                                        |                                               |
 
 # 🖥系统装机
 
@@ -191,30 +193,30 @@
 >
 > 5.插件都是谷歌内核的浏览器插件,插件的下载地址已经列出,或者可以**百度一下Extfans**
 
-| 杀毒                                                         |                                                              |                                                            |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- |
-| 火绒安全(小巧干净无捆绑弹窗)👍                                |                                                              |                                                            |
-| **浏览器**                                                   |                                                              |                                                            |
-| [百分浏览器](https://www.centbrowser.cn/)(基于谷歌内核,国产) | 谷歌浏览器                                                   | Via(安卓,小巧轻便,无推广)👍                                 |
-| 火狐浏览器                                                   | [奔跑中的奶酪](https://firefox.runningcheese.com/)(博主基于火狐二次开发定制的浏览器) |                                                            |
-| **[浏览器插件](https://www.extfans.com/)**                   |                                                              |                                                            |
-| Infinity(美化浏览器标签页)👍                                  | Adblock Plus(屏蔽广告)                                       | 油猴(浏览器脚本插件)                                       |
-| **下载**                                                     |                                                              |                                                            |
-| **uTorrent**(Pro版可边下边播)                                | **IDM**👍                                                     | **qBittorrent**                                            |
-| 冰点文库下载(免费下载百度文库等文档)                         | [motrix](https://motrix.app/zh-CN/)                          |                                                            |
-| **图像处理**                                                 |                                                              |                                                            |
-| [Snipaste](https://www.snipaste.com/)(截图神器)👍             | [faststone](https://www.faststone.org/)(小巧的录屏软件+长截图) | 2345看图王(破解版本)                                       |
-| [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases/tag/2.19.3) (小巧+录制Gif) |                                                              |                                                            |
-| **播放器**                                                   |                                                              |                                                            |
-| PotPlayer👍                                                   | [VLC](https://www.videolan.org/)                             |                                                            |
-| **系统增强**                                                 |                                                              |                                                            |
-| Listary(快速搜索电脑内文件)👍                                 | Clover(收纳文件夹标签)👍                                      | Wise Auto Shutdown(定时关机)                               |
-| IObit Uninstaller Pro(软件卸载)                              | [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)(内存流量监控)👍 | Sublime(文本处理)👍                                         |
-| [TeamViewer](https://masuit.com/118/TeamViewer)(远程控制)👍   | [CCleaner](https://www.ccleaner.com/)(系统清理)👍             | [Dism++](http://www.chuyu.me/zh-Hans/index.html)(系统优化) |
-| 软媒美化大师                                                 | 盘姬工作箱                                                   | SpaceSniffer(可视化界面展示硬盘占用资源)                   |
-| Recuva(恢复删除的文件)                                       | Office Tab(收纳office,标签管理)                              |                                                            |
-| **其他**                                                     |                                                              |                                                            |
-| Mp3Tag(修改歌曲专辑信息)                                     | [PicGo](https://github.com/Molunerfinn/PicGo/releases)(上传图片到各大图床) | Xmind(流程图脑图)                                          |
+| 杀毒                                                         |                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [火绒安全](https://www.huorong.cn/)(小巧干净无捆绑弹窗)👍     |                                                              |                                                              |
+| **浏览器**                                                   |                                                              |                                                              |
+| [百分浏览器](https://www.centbrowser.cn/)(基于谷歌内核,国产) | [谷歌浏览器](https://www.google.cn/chrome/)                  | [火狐浏览器](https://www.mozilla.org/zh-CN/firefox/new/)     |
+| [Via](http://viayoo.com/zh-cn/)(安卓,小巧轻便,无推广)👍       | [奔跑中的奶酪](https://firefox.runningcheese.com/)(博主基于火狐二次开发定制的浏览器) | [下载Chrome](https://tools.shuax.com/chrome/)                |
+| **[浏览器插件](https://www.extfans.com/)**                   |                                                              |                                                              |
+| Infinity(美化浏览器标签页)👍                                  | Adblock Plus(屏蔽广告)                                       | 油猴(浏览器脚本插件)                                         |
+| **下载**                                                     |                                                              |                                                              |
+| [**uTorrent**](https://www.utorrent.com)(Pro版可边下边播)    | [**IDM**](http://www.internetdownloadmanager.com/)👍          | [**qBittorrent**](https://www.qbittorrent.org/)              |
+| 冰点文库下载(免费下载百度文库等文档)                         | [motrix](https://motrix.app/zh-CN/)                          |                                                              |
+| **图像处理**                                                 |                                                              |                                                              |
+| [Snipaste](https://www.snipaste.com/)(截图神器)👍             | [faststone](https://www.faststone.org/)(小巧的录屏软件+长截图) | 2345看图王(破解版本)                                         |
+| [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases/tag/2.19.3) (小巧+录制Gif) |                                                              |                                                              |
+| **播放器**                                                   |                                                              |                                                              |
+| PotPlayer👍                                                   | [VLC](https://www.videolan.org/)                             |                                                              |
+| **系统增强**                                                 |                                                              |                                                              |
+| [Listary](https://www.listary.com/)(快速搜索电脑内文件)👍     | [Clover](http://cn.ejie.me/)(收纳文件夹标签)👍                | [Wise Auto Shutdown](https://www.wisecleaner.com/wise-auto-shutdown.html)(定时关机) |
+| IObit Uninstaller Pro(软件卸载)                              | [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)(内存流量监控)👍 | [Sublime](https://www.sublimetext.com/)(文本处理)👍           |
+| [TeamViewer](https://masuit.com/118/TeamViewer)(远程控制)👍   | [CCleaner](https://www.ccleaner.com/)(系统清理)👍             | [Dism++](http://www.chuyu.me/zh-Hans/index.html)(系统优化)   |
+| 软媒美化大师                                                 | 盘姬工作箱                                                   | [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html)(可视化界面展示硬盘占用资源) |
+| [Recuva](http://www.ccleaner.com/recuva)(恢复删除的文件)     | Office Tab(收纳office,标签管理)                              |                                                              |
+| **其他**                                                     |                                                              |                                                              |
+| [Mp3Tag](https://www.mp3tag.de/)(修改歌曲专辑信息)           | [PicGo](https://github.com/Molunerfinn/PicGo/releases)(上传图片到各大图床) | Xmind(流程图脑图)                                            |
 
 
 # 🔎导航站
@@ -249,4 +251,3 @@
 - [**TrafficMonitor内存流量监控效果**](https://github.com/fengyehong123/img/blob/master/20191223085426.png)
 - [**油猴脚本的使用效果1**](https://github.com/fengyehong123/img/blob/master/20191224085658.png)
 - [**油猴脚本的使用效果2**](https://github.com/fengyehong123/img/blob/master/20191224085301.png)
-
