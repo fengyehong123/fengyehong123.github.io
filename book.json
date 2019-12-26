@@ -1,0 +1,19 @@
+{
+    "title": "资源目录",
+    "description": "收集资源网站",
+    "author": "kameii",
+    "language": "zh-hans",
+    "root": ".",
+    "plugins": [
+        "github-buttons@2.1.0"
+    ],
+    "pluginsConfig": {
+        "github-buttons": {
+            "repo": "fengyehong123/article",
+            "types": [
+                "star"
+            ],
+            "size": "small"
+        }
+    }
+}
