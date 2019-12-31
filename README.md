@@ -31,7 +31,7 @@
 | [Windows激活](https://v0v.bid/)            | [小笨分享](https://zhouxiaoben.info/src/)          | [慕若曦博客](https://www.muruoxi.com/)   | [MSDN,我告诉你](https://msdn.itellyou.cn/)     |
 | [软件SOS](https://www.rjsos.com/)          | [系统迷](https://www.xitmi.com/)                   | [小冷博客](https://www.chromeba.net/)    | [白的夜](https://www.baideye.com/)             |
 | [423down](https://www.423down.com/)        | [风刑软件](https://www.wsf1234.com/)               | [麦田一颗葱](https://www.52maicong.com/) | [奔跑中的奶酪](https://www.runningcheese.com/) |
-| [软件缘](https://www.appcgn.com/)          | [MAC毒](https://www.macdo.cn/)<br />(苹果电脑软件) | [乐软博客](https://www.isharepc.com/)    |                                                |
+| [软件缘](https://www.appcgn.com/)          | [MAC毒](https://www.macdo.cn/)<br />(苹果电脑软件) | [乐软博客](https://www.isharepc.com/)    | [果壳剥核](https://www.ghpym.com/)👍            |
 
 # 📱手机APP站
 
@@ -154,6 +154,7 @@
 | [浏览器脚本](https://greasyfork.org/zh-CN) <br />配合油猴插件,拓展浏览器功能 | [拓展迷](https://www.extfans.com/)  <br />谷歌内核浏览器插件 | [逗比脚本](https://github.com/ToyoDAdoubi)                   |
 | [谷歌搜索镜像站](https://www.uedbox.com/post/54776/)         | [BT-btt](https://bt-btt.com)                                 | [网盘搜索](http://magnet.chongbuluo.com/)                    |
 | [TopBook](https://topbook.cc/overview)  高效生活工作👍        | [编程随想](https://program-think.blogspot.com/)(需要翻墙)    | [奶酪书签专业版](https://www.runningcheese.com/cheesebookmarks) |
+| [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes) | [油猴脚本推荐](https://github.com/runningcheese/RunningCheese-Firefox/tree/master/UserScripts) | --待添加--                                                   |
 
 # 🔧工具站
 
@@ -198,7 +199,7 @@
 | [火绒安全](https://www.huorong.cn/)(小巧干净无捆绑弹窗)👍     |                                                              |                                                              |
 | **浏览器**                                                   |                                                              |                                                              |
 | [百分浏览器](https://www.centbrowser.cn/)(基于谷歌内核,国产) | [谷歌浏览器](https://www.google.cn/chrome/)                  | [火狐浏览器](https://www.mozilla.org/zh-CN/firefox/new/)     |
-| [Via](http://viayoo.com/zh-cn/)(安卓,小巧轻便,无推广)👍       | [奔跑中的奶酪](https://firefox.runningcheese.com/)(博主基于火狐二次开发定制的浏览器) | [下载Chrome](https://tools.shuax.com/chrome/)                |
+| [Via](http://viayoo.com/zh-cn/)(安卓,小巧轻便,无推广)👍       | [奔跑中的奶酪](https://firefox.runningcheese.com/)(博主基于火狐二次开发定制的浏览器) | [星愿浏览器](https://www.twinkstar.com/)                     |
 | **[浏览器插件](https://www.extfans.com/)**                   |                                                              |                                                              |
 | Infinity(美化浏览器标签页)👍                                  | Adblock Plus(屏蔽广告)                                       | 油猴(浏览器脚本插件)                                         |
 | **下载**                                                     |                                                              |                                                              |
