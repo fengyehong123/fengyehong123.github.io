@@ -16,7 +16,7 @@
 | [ACG搜](http://www.acgsou.com/1.html) | [动漫花园1](https://dongmanhuayuan.myheartsite.com) | [动漫花园2](https://www.dongmanhuayuan.com/) | [动漫花园3](https://share.dmhy.org/)  需要翻墙 | [蜜桔计划](https://mikanani.me/)   |
 | **在线观看**                          |                                                     |                                              |                                                |                                    |
 | [CliCli](https://www.clicli.us/)      | [E站](http://www.ezdmw.com/)                        | [dlidli](http://www.dilidili.one/)           | [upupoo](http://anime.upupoo.com/)             | [slisli](http://www.silisili.me/)  |
-| [速速动漫](http://www.susudm.com/)    | [风车动漫](http://www.fengchedm.com/)               | [非极速](http://feijisu8.com/acg/)           | [万能命令](https://wanneng.run/cn/)            |                                    |
+| [速速动漫](http://www.susudm.com/)    | [风车动漫](http://www.fengchedm.com/)               | [非极速](http://feijisu8.com/acg/)           | [万能命令](https://wanneng.run/cn/)            | [Z站](http://www.zzzfun.com/)      |
 
 # 💻软件站
 
@@ -104,12 +104,12 @@
 # 🎬电影+电视剧
 
 | [电影天堂](https://www.dytt8.net/index0.html) | [电影家园](http://www.idyjy.com/)       | [龙部落](http://www.lbldy.com/)      | [BD影视](https://www.bd-film.cc/)    |
-| --------------------------------------------- | --------------------------------------- | ------------------------------------ | ------------------------------------ |
+| :-------------------------------------------- | --------------------------------------- | ------------------------------------ | ------------------------------------ |
 | [920电影网](http://www.920dy.cc/)             | [古哥论坛](http://www.gugeys.cc/)       | [BT猫](https://www.btmao.cc/)        | [BT之家](http://www.6btbtt.com/)👍    |
 | [非极速](http://feijisu8.com/acg/)            | [田鸡影院](http://www.tianjiyy123.com/) | [万能命令](https://wanneng.run/cn/)👍 | [中国高清网](http://gaoqing.la/)     |
 | [疯狂影视搜索](http://ifkdy.com/)             | [看看屋](https://www.kankanwu.com/)     | [94神马电影网](http://www.9rmb.com/) | [完美看看](https://www.wanmeikk.me/) |
 | [片库](https://www.pianku.tv/)                | [1090影视](https://1090ys.com/)         | [片源网](http://pianyuan.la/)        | [电影港](http://www.dygangs.com/)    |
-| [视频鱼](http://www.shipinyu.cn/)             |                                         |                                      |                                      |
+| [视频鱼](http://www.shipinyu.cn/)             | [嘀哩哩](https://www.dililitv.com/)     |                                      |                                      |
 
 # 🎧音乐站
 
@@ -148,25 +148,26 @@
 # 📁资源站
 
 | [无作为](https://www.wuzuowei.net)(目前无法访问)             | [阿虚](https://github.com/axutongxue/Article-backup/issues) 👍 | [阿虚同学的储物间](http://kyon945.ys168.com/)👍               |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [吾爱破解](https://www.52pojie.cn/)                          | [凨辰隐资源网](http://www.fcyzyw.com/index.html)             | [ED资源共享](https://www.ed2000.com/)                        |
 | [高清范](http://www.hdpfans.com/)                            | [流量族](http://liuliangzu.com/)  <br />获取性价比高的手机卡 | [新极品](http://www.xinjipin.com/)  <br />购买账号👍          |
 | [浏览器脚本](https://greasyfork.org/zh-CN) <br />配合油猴插件,拓展浏览器功能 | [拓展迷](https://www.extfans.com/)  <br />谷歌内核浏览器插件 | [逗比脚本](https://github.com/ToyoDAdoubi)                   |
 | [谷歌搜索镜像站](https://www.uedbox.com/post/54776/)         | [BT-btt](https://bt-btt.com)                                 | [网盘搜索](http://magnet.chongbuluo.com/)                    |
 | [TopBook](https://topbook.cc/overview)  高效生活工作👍        | [编程随想](https://program-think.blogspot.com/)(需要翻墙)    | [奶酪书签专业版](https://www.runningcheese.com/cheesebookmarks) |
-| [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes) | [油猴脚本推荐](https://github.com/runningcheese/RunningCheese-Firefox/tree/master/UserScripts) | --待添加--                                                   |
+| [Chrome插件英雄榜1](https://github.com/zhaoolee/ChromeAppHeroes) | [Chrome插件英雄榜2](https://zhaoolee.gitbooks.io/chrome/content/) | [Windows优质应用合辑](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md) |
+| [赵无良的小仓库](http://yanxue999.ys168.com/)                | [油猴脚本推荐](https://github.com/runningcheese/RunningCheese-Firefox/tree/master/UserScripts) | --待添加--                                                   |
 
 # 🔧工具站
 
 | [ByPass分流抢票](https://www.bypass.cn/)👍               | [通途网](http://www.95105105.com/)(火车票知识)         | [PDF在线转换](https://www.ilovepdf.com/zh-cn) |
-| ------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------- |
+| :------------------------------------------------------ | ------------------------------------------------------ | --------------------------------------------- |
 | [12306抢票网](http://www.12306.org.cn/)👍                | [兔二工具箱](https://www.tool2.cn/)                    | [在线工具](https://tool.lu/)                  |
 | [爱资料在线工具](https://www.toolnb.com/)               | [一次性邮箱](https://temp-mail.org/zh/)                | [临时邮箱](https://linshiyou.com/)(保护隐私)  |
 | [万能命令](https://wanneng.run/cn/)👍                    | [云端应用](https://img.uzer.me/uzstatics/upgrade.html) | [大文件传输](https://www.wenshushu.cn/)       |
 | [GIF工具之家](https://tool.gifhome.com/)                | [网盘提取码查询](https://pnote.net/pan/)               | [免费图床](https://www.jawy.cn/pic/)          |
 | [在线接收短信验证码](https://yunduanxin.net/)(保护隐私) | [免费网络应用](https://123apps.com/cn/)                | [二维码生成](https://cli.im/)                 |
 | [网址压缩](http://dwz.wailian.work/)                    | [短网址生成](https://www.985.so/)                      | [网址缩短](http://www.8cc7.com/)              |
-| [工具邦](http://cn.piliapp.com/)👍                       |                                                        |                                               |
+| [工具邦](http://cn.piliapp.com/)👍                       | [各平台视频下载](http://weibodang.cn/)                 | [跨平台收藏工具](https://withpinbox.com/)     |
 
 # 🖥系统装机
 
