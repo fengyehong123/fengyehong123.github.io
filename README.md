@@ -56,7 +56,7 @@
 | [墙洞使用手册](https://github.com/lhie1/Rules)               | [机场使用手册](https://www.duyaoss.com/archives/1086/)       | [rixCloud](https://rixcloudkb.io/)                           | [SSR指南](https://github.com/s-s-r/wiki)                     |
 | [SSR详细教程](https://www.appmews.com/app/1947/)             | [SSR中文网](https://ssr.tools/)                              | [逗比根据地备份](https://doubibackup.com/)👍                  | [阿虚](http://mooc1.chaoxing.com/zt/201723393.html?_from_=)👍 |
 | [翻墙党](https://fanqiangdang.com/blog/)                     | [V2Ray](https://v2s.xyz/index.php?rp=/knowledgebase/1/V2Ray) | [编程随想](https://program-think.blogspot.com/search/label/IT.%E7%BF%BB%E5%A2%99) | [如何翻墙](https://github.com/bannedbook)                    |
-| [翻墙科普](https://github.com/fengyehong123/article/issues/7)👍 | [Alvin9999](https://github.com/Alvin9999/new-pac/wiki)👍      |                                                              |                                                              |
+| [翻墙科普](https://github.com/fengyehong123/article/issues/7)👍 | [Alvin9999](https://github.com/Alvin9999/new-pac/wiki)👍      | [秦光辉博客](https://blog.hiaoxui.com/blog/archives/hiaoxui) |                                                              |
 | **工具**-`shadowsocks系列`                                   |                                                              |                                                              |                                                              |
 | [ShadowsocksRR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases) | [ShadowsocksR](https://github.com/shadowsocksr-backup)       | [HMBSbige_ShadowsocksR](https://github.com/HMBSbige/ShadowsocksR-Windows) | [Anankke_SSRR](https://github.com/Anankke/SSRR-Windows/releases) |
 | [shadowsocks](https://github.com/shadowsocks)                | [shadowsocks官网](https://shadowsocks.org/en/index.html)     | [SSD](https://github.com/TheCGDF/SSD-Windows)                | [Shadowrocket苹果版](https://free.shadowrocket.online/)      |
@@ -87,6 +87,12 @@
 | **VPS购买**                                        |                                                              |                                       |                                                             |
 | [搬瓦工](https://bwh88.net/)                       | [搬瓦工中文网](https://www.banwagongzw.com/)                 | [Vultr](https://www.vultr.com/)       | [justmysocks-1](https://justmysocks1.net/members/index.php) |
 | [justmysocks-2](https://justmysocks1.net/members/) | [小夜博客](https://www.vpsmm.com/index.php)                  | [linode](https://www.linode.com/)     |                                                             |
+
+# 🌐谷歌镜像
+
+| [体验盒子](https://www.uedbox.com/post/54776/)               | [镜像导航1](https://ac.scmor.com/)                           | [镜像导航2](http://scholar.hedasudi.com/) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------- |
+| [handbook](https://github.com/jaywcjlove/handbook/tree/master/other) | [Alvin9999](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) | [浙江大学Google](https://g.luciaz.me/)    |
 
 # 🎈路由器
 
@@ -147,15 +153,14 @@
 
 # 📁资源站
 
-| [无作为](https://www.wuzuowei.net)(目前无法访问)             | [阿虚](https://github.com/axutongxue/Article-backup/issues) 👍 | [阿虚同学的储物间](http://kyon945.ys168.com/)👍               |
+| [阿虚](https://github.com/axutongxue/Article-backup/issues) 👍 | [阿虚同学的储物间](http://kyon945.ys168.com/)👍               | [赵无良的小仓库](http://yanxue999.ys168.com/)                |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [吾爱破解](https://www.52pojie.cn/)                          | [凨辰隐资源网](http://www.fcyzyw.com/index.html)             | [ED资源共享](https://www.ed2000.com/)                        |
 | [高清范](http://www.hdpfans.com/)                            | [流量族](http://liuliangzu.com/)  <br />获取性价比高的手机卡 | [新极品](http://www.xinjipin.com/)  <br />购买账号👍          |
 | [浏览器脚本](https://greasyfork.org/zh-CN) <br />配合油猴插件,拓展浏览器功能 | [拓展迷](https://www.extfans.com/)  <br />谷歌内核浏览器插件 | [逗比脚本](https://github.com/ToyoDAdoubi)                   |
-| [谷歌搜索镜像站](https://www.uedbox.com/post/54776/)         | [BT-btt](https://bt-btt.com)                                 | [网盘搜索](http://magnet.chongbuluo.com/)                    |
-| [TopBook](https://topbook.cc/overview)  高效生活工作👍        | [编程随想](https://program-think.blogspot.com/)(需要翻墙)    | [奶酪书签专业版](https://www.runningcheese.com/cheesebookmarks) |
+| [编程随想](https://program-think.blogspot.com/)(需要翻墙)    | [BT-btt](https://bt-btt.com)                                 | [网盘搜索](http://magnet.chongbuluo.com/)                    |
+| [TopBook](https://topbook.cc/overview)  高效生活工作👍        | [油猴脚本推荐](https://github.com/runningcheese/RunningCheese-Firefox/tree/master/UserScripts) | [奶酪书签专业版](https://www.runningcheese.com/cheesebookmarks) |
 | [Chrome插件英雄榜1](https://github.com/zhaoolee/ChromeAppHeroes) | [Chrome插件英雄榜2](https://zhaoolee.gitbooks.io/chrome/content/) | [Windows优质应用合辑](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md) |
-| [赵无良的小仓库](http://yanxue999.ys168.com/)                | [油猴脚本推荐](https://github.com/runningcheese/RunningCheese-Firefox/tree/master/UserScripts) | --待添加--                                                   |
 
 # 🔧工具站
 
