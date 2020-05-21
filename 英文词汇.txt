@@ -1,0 +1,316 @@
+1. persisit  : 保存
+
+2. merge  : 融合;更新
+
+3. transaction  : 事务
+
+4. redundant  : 被裁减的; 多余的; 不需要的;
+
+5. entity : 实体类
+
+6. detected : 发现, 侦察出
+
+7. semicolon : 分号
+
+8. multiple	: 数量多的; 多种多样的;倍数
+
+9. Interceptor : 拦截器
+
+10. mounted : 渲染
+
+11. prompt : 促进,提示
+
+12. permanent : 永久的,持久的     
+
+13. wildcard : 通配符        
+
+14. durable: 持久的(持久化),长期的
+
+15. validate: 校验;证实;确认
+
+16. refactor: 重构
+
+17. deprecate: 不赞成,反对
+
+18. delegate: 代理
+
+19. verify: 核实; 查对; 核准; 证明; 证实;
+
+20. indentation: 缩进
+
+21. name conventions: 命名的风格
+
+22. constants : 常量
+
+23. deploy: 部署
+
+24. Gateway: 网关
+
+25. async: 异步
+
+26. sync: 同步
+
+27. invoke: 调用
+
+28. truncate: 截短，缩短，删节(尤指掐头或去尾)
+
+29. nodes: 节点
+
+30. repository: 仓库
+
+31. clipboard: 剪贴板
+
+32. toggle: 切换(两种状态之间)
+
+33. mentioned: 提到; 写到; 说到;
+
+34. Billing: 账单
+
+35. notification: 通知; 通告; 告示;
+
+36. issue: 重要议题; 争论的问题; (有关某事的) 问题，担忧;
+
+37. gist: 要点; 主旨; 大意;
+
+38. authorized: 批准; 授权;
+
+39. Personal Profile: 个人简介
+
+40. assigned: 分配;分派(工作、任务等给某人);分配,派给
+
+41. transfer: 转移;转存
+
+42. classify: 分类；归类
+
+43. subscribe,subscription: 订阅;定期缴纳会员费
+
+44. insufficient: 不充分的; 不足的;
+
+45. suspended: 悬; 挂; 吊; 暂停; 中止; 使暂停发挥作用(或使用等); 延缓; 暂缓; 推迟;
+
+46. checkout: 付款台，付款处; (在旅馆) 结账离开的时间;
+
+47. obtain: 获取;获得
+
+48. preferences: 首选项;参数选项;偏好;(例如eclipse的参数设置选项)
+
+49. word wrap: 换行(文字换行)
+
+50. applet: 小程式；小程序中；应用小程序
+
+51. duplicate: 复印;复制;完全一样的东西
+
+52. generate: 生成;产生;引起
+	To generate this key, a password must be associated with this ID;
+	要生成此密钥，必须将密码与此ID关联;
+
+53. stolen: 偷; 窃取;
+	steal的过去分词;
+
+54. deliver: 交付；发表；兑现；传送
+
+55. inspect: 检查;查看
+
+56. indent: 缩进
+
+57. incognito: 匿名;隐身
+
+58. scope: 作用域；适用范围；范畴
+
+59. visual: 视力的;视觉的;可视化的
+
+60. Access-Control-Allow-Origin: 跨域
+
+61. transient: 瞬态；瞬时；暂态
+
+62. perpetual: 不间断的; 持续的;终身的; 永久的;
+
+63. mute site: 网页静音(在该网页静音播放视频音频)
+
+64. deprecated: 已过时;被废弃;不赞成
+	This Chrome app is being deprecated.
+
+65. advanced features: 高级功能,高级特性
+
+66. show this window on launch: 在启动时显示此窗口
+
+67. Unsupported platform: 不支持的平台
+
+68. SEO(Search Engine Optimization): 搜索引擎优化
+
+69. chunk: 组块；区块；数据块
+
+70. during: 在...的期间；在……过程中
+
+71. introduce: 介绍;引进,提出
+
+72. permissive: 容许的，许可的
+
+73. senior: 高级的;资深的
+
+74. instruction: 指令;指导;
+
+75. release: 版本;发行;释放;
+
+76. collapse: 倒塌;瓦解;崩塌;可折叠(代码块可以折叠)
+
+77. profile: 配置文件;简介
+	In Profiles there must be at least one profile active, otherwise you won't be able to create new SMS alert.
+	在配置文件中必须有至少一个配置文件活动，否则你将无法创建新的SMS警报
+
+78. preprocess: 预处理
+
+79. directive: 指令;指示符;
+	You should be familiar with the page directive already, so the above code should be easy to understand.
+	您应该已经比较熟悉这页指令了，因此上述代码应该很容易理解。
+
+80. integrate: 整合;使一体化;
+	OSS is often easier to integrate with other solutions as OSS code can be customized to allow disparate systems to interoperate more easily.
+	OSS往往易于与其它方案集成，由于OSS代码可定制，让两种或多种根本不同的系统更容易互操作。
+
+81. disparate: 全异的；异类的；根本不同的
+
+82. subscript: 下标
+
+83. argument: 参数
+
+84. explicit: 明确的;清楚地;
+
+85. specify: 指定;具体说明,详细说明
+	This parameter specifies how much of the cache is cleared when the user logs off .
+	此参数指定当用户注销时清除了多少缓存。
+
+86. swap: 交换分区;换；掉换；交换；
+	The AIX server is also configured with a 32 GB swap or paging space on one of the internal disk volumes.
+	AIX服务器在其中一个内部磁盘卷上还配置有32GB交换区或分页空间。
+
+87. withdraw: 撤回;收回;
+
+88. advance: 提前;预先;
+	By conducting a little research in advance, you can find out if the internet is restricted in the areas you will be traveling.
+	通过做一些预先的研究，你可以知道你所要浏览网络在这些区域是否被限制。
+
+89. reference: 参考;引用;引用类型
+
+90. virtual: 虚拟的
+
+91. assignment-by-name: 按名赋值
+
+92. solicit: 恳求;请求;
+	An output followed by an input is a solicit-response operation, and a single input is a notification.
+	输出后面紧跟着输入则是请求-响应（solicit-response）操作，单一的输入是一个通告。
+
+93. wrapper: 包装器;封装
+	It was, you guessed it, a bunch of wrapper functions written in Expect.
+	你可以想象，它是一串在Expect中写的封装好的函数。
+
+	Note the similarity between the commented code and the wrapper; that's to give you a sense of what code you're trying to write.
+	注意注释代码和包装器之间的相似之处；这让您感觉到将要写什么样的代码。
+
+94. comment: 评论;注释;
+	As you can see, the sample application prints out the conditional directives in a commented out manner as well.
+	如你所见，这个例子程序以注释的方式打印出条件指令。
+
+95. alias: 别名;程序中对一个导入的对象取的别名(例如python的导包)
+
+96. privilege: 权限
+
+97. slash: 斜杠;斜线;
+
+98. utility: 功用；实用性；实用程序
+
+99. terminate: 终止
+
+100.aggregate: 集合；聚集；聚合
+	Therefore, you can use a data column in a WHERE clause even if it is not part of the GROUP BY clause or contained in an aggregate function.
+	所以，即使数据列不是GROUPBY子句的一部分或者不包含在聚合函数中，也可以在WHERE子句中使用它。	
+
+	clause: 字句;从句;分句;
+
+101. unintended: 意外的
+
+102. side effect: 副作用;意外结果
+		Changing your username can have unintended side effects. 
+		改变你的用户名可能会导致意想不到的结果.
+
+103. trend: 趋势;走向
+
+104. prefer: 首选的;优先;推荐;建议;
+
+105. revert: 恢复,回复(到以前的状态、制度或行为);回到
+
+106. reset: 复位;重置
+
+107. omit: 省略;疏忽;省略;删去
+
+108. escaping: 逃跑;转义
+
+109. constraint: 约束;限制
+
+110. leap year: 闰年
+
+111. wrapper class: 包装类型
+
+112. implicit: 隐式;暗示的;隐性
+
+113. cascade: 级联(级联操作,级联删除)
+
+114. snapshot: 快照,简介,简要说明
+
+115. persistence: 持续性；持久性；持久化
+
+116. validation: 确认；验证；校验
+
+117. immutable: 不可变的;永恒不变的
+		Further, for data members that are object references, the referred-to objects must be effectively immutable.
+		此外，对于对象引用的数据成员，引用的对象必须是有效不可变的。
+
+118. mandatory: 命令的；强制性的；强迫的, 和 mandatory 意思相同
+
+119. Primitives: 基本数据类型
+
+120. Wrappers: 包装数据类型
+
+121. quote: 引用
+
+122. Concurrent: 并发
+
+123. Parallel: 并行
+
+124. Object Oriented Programming (OOP): 面向对象编程  oriented: 朝向,面向
+
+125. authorization: 批准; 授权;
+
+126. authentication: 身份验证; 认证；鉴定;
+
+127. cryptography: 密码学; 密码术;
+
+128. integration: 结合; 整合; 一体化;
+
+129. identifier: 标识符
+
+130. prior: 先前的;较早的
+
+131. detach: 拆分;脱离(eclipse的窗口脱离主界面操作)
+
+132. Startup Wizard: 开始向导(多出现于软件安装界面)
+
+133. optimized: 优化
+		Parts of your code that you think are not properly optimized may not end up being a problem.
+		您认为不够优化的代码部分可能不会造成问题。
+
+134. perspective: 透视图;视角;
+
+135. hierarchical: 层级(eclipse中包的层级显示)
+		It is often used as a file system navigator, and is a highly effective way to present inherently hierarchical information.
+		它也常作为文件导航系统使用，并且在表示继承关系的层次信息时效果非常好
+
+136. capacity: 容量;容积;(例如数组或者列表中存放数据的容量)
+		How much capacity is available in the data center?
+		在数据中心中有多少可用容量？
+
+137. periodically: 定期性;周期性
+		check updates periodically 
+		定期检查是否有最新版本
+
+138. ambiguous: 模棱两可的;暧昧的
