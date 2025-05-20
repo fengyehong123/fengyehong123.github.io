@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>WebAuthn Demo (No Server)</title>
+  <style>
+    body { font-family: sans-serif; max-width: 600px; margin: 2em auto; }
+    button { padding: 0.5em 1em; margin: 1em 0; }
+    pre { background: #f0f0f0; padding: 1em; overflow-x: auto; }
+  </style>
+</head>
+<body>
+  <h1>🔐 WebAuthn Demo (No Server)</h1>
+  <button id="registerBtn">注册凭据</button>
+  <button id="loginBtn">使用凭据登录</button>
+  <pre id="output"></pre>
+
+  <script>
+    const output = document.getElementById('output');
+    const log = msg => output.textContent += msg + '\n';
+
+    // 工具函数：base64 <=> ArrayBuffer 转换
+    const bufferToBase64 = buffer => btoa(String.fromCharCode(...new Uint8Array(buffer)));
+    const base64ToBuffer = b64 => Uint8Array.from(atob(b64), c => c.charCodeAt(0)).buffer;
+
+    // 生成一个随机 challenge
+    function generateChallenge(len = 32) {
+      const buffer = new Uint8Array(len);
+      window.crypto.getRandomValues(buffer);
+      return buffer;
+    }
+
+    // 注册逻辑
+    document.getElementById('registerBtn').onclick = async () => {
+      output.textContent = '';
+      log('开始注册...');
+
+      const challenge = generateChallenge();
+      const publicKey = {
+        challenge,
+        rp: { name: "Demo Site" },
+        user: {
+          id: Uint8Array.from("123456", c => c.charCodeAt(0)),
+          name: "user@example.com",
+          displayName: "测试用户"
+        },
+        pubKeyCredParams: [
+          { type: "public-key", alg: -7 } // ES256
+        ],
+        authenticatorSelection: {
+          authenticatorAttachment: "platform",
+          userVerification: "preferred"
+        },
+        timeout: 60000,
+        attestation: "none"
+      };
+
+      try {
+        const cred = await navigator.credentials.create({ publicKey });
+
+        const rawIdBase64 = bufferToBase64(cred.rawId);
+        localStorage.setItem('credentialId', rawIdBase64);
+        log('✅ 注册成功！凭据 ID 已保存：');
+        log(rawIdBase64);
+      } catch (err) {
+        log('❌ 注册失败：' + err);
+      }
+    };
+
+    // 登录逻辑
+    document.getElementById('loginBtn').onclick = async () => {
+      output.textContent = '';
+      log('开始登录...');
+
+      const storedId = localStorage.getItem('credentialId');
+      if (!storedId) {
+        log('❌ 未找到已注册的凭据 ID，请先注册');
+        return;
+      }
+
+      const challenge = generateChallenge();
+      const publicKey = {
+        challenge,
+        allowCredentials: [
+          {
+            type: 'public-key',
+            id: base64ToBuffer(storedId),
+            transports: ["internal"]
+          }
+        ],
+        timeout: 60000,
+        userVerification: "preferred"
+      };
+
+      try {
+        const assertion = await navigator.credentials.get({ publicKey });
+        log('✅ 登录成功！');
+        log('认证信息如下：');
+        log(JSON.stringify({
+          id: assertion.id,
+          type: assertion.type,
+          rawId: bufferToBase64(assertion.rawId)
+        }, null, 2));
+      } catch (err) {
+        log('❌ 登录失败：' + err);
+      }
+    };
+  </script>
+</body>
+</html>
